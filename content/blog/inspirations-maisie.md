@@ -10,7 +10,7 @@ author : "Will & Hannah"
 image: "images/blog/dannychung.jpg"
 
 # meta description
-description: "Writer Maisie Chan on the "
+description: "Writer Maisie Chan on writing, representation and how to be a damn good storyteller."
 
 # taxonomies
 categories: ["interview"]

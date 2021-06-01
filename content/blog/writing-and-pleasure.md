@@ -25,4 +25,4 @@ Of course, writing can be difficult (tell us about it). But difficulty is not th
 
 > One reason that the idea of the suffering artist is so very pernicious is that it dulls our instincts for pleasure and delight. And it eclipses the central role that pleasure plays in creating anything of value. The myth of suffering for your art teaches us that pleasure is an indication that something is wrong, a worrying sign of our superficiality. And this idea is fatal for our creative well-being.
 
-[You can read the whole article here](https://willbuckingham.medium.com/the-secret-of-creativity-is-not-suffering-it-is-pleasure-89268d9583be?sk=b688bd970a96314e97e3607d683120e5).
+[Read the whole article.](https://willbuckingham.medium.com/the-secret-of-creativity-is-not-suffering-it-is-pleasure-89268d9583be?sk=b688bd970a96314e97e3607d683120e5)

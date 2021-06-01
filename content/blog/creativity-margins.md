@@ -23,4 +23,4 @@ The other week, we had the pleasure of sitting down for a long Zoom chat about c
 
 We were talking about the connections between creativity and interdisciplinarity, why we want university creativite writing to decamp from English departments ot the art school, and the creative benefits of operating at the margins of formal academia. 
 
-[You can listen to the podcast here](https://audioboom.com/posts/7869584-wind-bones-creativity-at-the-academic-margins)
+[Listen to the podcast.](https://audioboom.com/posts/7869584-wind-bones-creativity-at-the-academic-margins)

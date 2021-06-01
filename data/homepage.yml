@@ -200,7 +200,7 @@ awards:
       image : "images/about/embassy.jpg"
       
     # award item loop
-    - title : "Emprove Bulgaria"
+    - title : "Emprove"
       image : "images/about/emprove.png"
       
     # award item loop
