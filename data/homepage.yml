@@ -4,7 +4,7 @@ banner:
   writter : "Writing | Creativity | Social Change"
   title : "Wind&Bones"
   image : "images/about/frontpage.jpg"
-  content : "Wind&Bones is a social enterprise that explores writing that makes a difference.
+  content : "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham
   
  ### Sign up to our newsletter here"
 
@@ -45,17 +45,17 @@ service:
     # service item loop
     - title : "Writing"
       icon : "ti-ink-pen" # themify icon pack : https://themify.me/themify-icons
-      content : "We are writers who care about the way that words transform ourselves, our relationships and the world"
+      content : "We are writers who care about the way that words transform ourselves, our relationships and the world."
       
     # service item loop
     - title : "Creativity"
       icon : "ti-light-bulb" # themify icon pack : https://themify.me/themify-icons
-      content : "Everyone is creative! Our work aims to unlock the creativity that we all have."
+      content : "Everyone is creative! Our work unlocks the creativity that we all have."
       
     # service item loop
     - title : "Social Change"
       icon : "ti-plug" # themify icon pack : https://themify.me/themify-icons
-      content : "We care about social change, and about how to use the power of writing to make the world a better, more liveable place ."
+      content : "We care about social change, and about how to use the power of writing to make the world a better, more liveable place."
 
 
 ######################### Quote #############################
@@ -81,13 +81,13 @@ We have worked with small grassroots organisations and multi-national NGOs, help
     - title : "Writer development"
       content : "We love working with writers to develop their unique vision. We work one-on-one and in small groups to help people make their voices heard.
 
-We offer mentoring and courses through our online learning portal. We also partner with a wide variety of organisations, from universities to community groups to charities, to develop bespoke writing courses."
+We offer mentoring and courses through our online learning portal. We also partner with a wide variety of organisations including universities, community groups and charities, to develop bespoke writing courses."
 
     # chapter preview loop
     - title : "Educational consultancy"
       content : "We believe education is both a social good and a fundamental right, and we are passionate about lifelong learning.
 
-We have years of experience in informal and formal education sectors, from running community education projects to curriculum design for postgraduate university courses."
+We have years of experience in informal and formal education sectors, including running community education projects, curriculum design, and postgraduate teaching to PhD level."
 
     # chapter preview loop
     - title : "Writing & publishing"
@@ -145,7 +145,7 @@ reviews:
 devices:
   enable : true
   title : "Work with us!"
-  content : "We work with individuals and with groups of all sizes to explore how writing can make a difference."
+  content : ""
   image : "images/about/hanclass.jpg"
   feature:
     # feature item loop
@@ -153,12 +153,12 @@ devices:
       icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
       content : "We work with large and small organisations, to explore how writing can storytelling can be used to bring about positive, lasting change.
 
-Our work takes us across the world. So wherever you are, we want to work with you."
+Our work takes us across the world. So wherever you are, we can work with you."
       
     # feature item loop
     - title : "For individuals"
       icon : "ti-user" # themify icon pack : https://themify.me/themify-icons
-      content : "We offer writing courses and mentoring for individuals. Whether you are just starting out in your writing career or have years of experience under your belt, we have something for you.
+      content : "We offer writing courses and mentoring for individuals. Whether you are just starting out in your writing career or have years of experience, we have something for you.
 
 Find out more on our courses site."
 
@@ -174,12 +174,12 @@ author:
   enable : true
   image : "images/about/willhan.jpg"
   name : "Who we are"
-  designation : "Dr Hannah Stevens & Dr Will Buckingham"
+  designation : ""
   content : "
-  Dr Hannah Stevens has a PhD in creative writing. She has published fiction and non-fiction internationally, and has over a decade of experience working with community groups and grassroots charities.
+  Dr Hannah Stevens has a PhD in creative writing. She is an internationally published writer of both fiction and non-fiction. She has over a decade of experience working with community groups and grassroots charities, and has worked on projects for organisations including the BBC and Greenpeace.
 
 
-  Dr Will Buckingham has a PhD in philosophy. He is the author of twelve books, and has worked on writing projects for publishers and organisations including the BBC, Knopf, Granta, DK, the NHS, and Aeon magazine."
+  Dr Will Buckingham has a PhD in philosophy. He is the author of 13 books with publishers including Granta, Hachette and Knopf. He has been involved in writing projects for a wide range of organisation including the NHS and the BBC, and was formerly Associate Professor in Writing & Creativity at De Montofrt University."
 
   # signature
   signature : "images/about/2.png"
@@ -188,7 +188,7 @@ author:
 ################################ Awards #####################################
 awards:
   enable : true
-  title : "Current & previous project partners"
+  title : "Project partners"
   award:
 
     # award item loop
@@ -271,7 +271,7 @@ contact:
         - listItem : "contact@windandbones.com"
         
     # contact Item loop
-    - title : "Location"
-      icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
+    - title : "Company address"
+      icon : "ti-instagram" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "80 Evesham Road LE3 2BD UK"
+        - listItem : "windbones"
