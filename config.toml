@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.windandbones.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Wind&Bones"
 theme = "influencer-hugo"
