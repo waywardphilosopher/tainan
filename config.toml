@@ -81,7 +81,7 @@ author = "Wind&Bones"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2021 Wind&Bones"
+copyright = "Copyright &copy; 2021 Wind&Bones  | Company no: 12355764 | 80 Evesham Drive LE3 2BD UK"
 
 # Preloader
 [params.preloader]
@@ -99,26 +99,7 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "If you want to get in touch, you can contact Wind&Bones using this form. We will be back to you as soon as we can."
+content = "If you want to get in touch, you can contact Wind&Bones using this form. We will get back to you as soon as we can."
 
 
 ############################# post share ###################
-[[params.share]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/windandboneseducation"
-
-[[params.share]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://www.twitter.com/windandbones"
-
-[[params.share]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/windandbones"
-
-[[params.share]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://instagram.com/windbones"
