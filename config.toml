@@ -81,7 +81,7 @@ author = "Wind&Bones"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # copyright
-copyright = "&copy; 2021 Wind&Bones Company no: 12355764 80 Evesham Road LE3 2BD UK"
+copyright = "&copy; 2021 Wind&Bones Company 12355764 80 Evesham Rd LE3 2BD UK"
 
 # Preloader
 [params.preloader]
