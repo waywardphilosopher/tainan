@@ -40,12 +40,12 @@ weight = 1
     
     
     [[menu.main]]
-    name = "About us"
+    name = "About"
     URL = "author"
     weight = 2
     
   [[menu.main]]
-  name = "Work with us"
+  name = "Our work"
   URL = "device"
   weight = 3
   
@@ -78,7 +78,6 @@ home = "Home"
 # Meta data
 author = "Wind&Bones"
 description = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham"
-twitter_card = true
 images = ["images/wind-bones.png"]
 
 # Google Analitycs
