@@ -11,9 +11,13 @@
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
+  {{ template "_internal/twitter_cards.html" . }}
   <link rel="stylesheet" href="{{ .URL | absURL }} ">
   {{ end }}
 
+
+  <!-- Open Graph Template -->
+  {{ template "_internal/opengraph.html" . }}
   <!-- snipcart -->
   <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet">
 

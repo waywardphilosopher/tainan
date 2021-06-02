@@ -76,8 +76,9 @@ weight = 1
 logo = ""
 home = "Home"
 # Meta data
-description = "Writing, creativity and social change"
 author = "Wind&Bones"
+description = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham"
+images = ["images/wind-bones.jpg"]
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # copyright
