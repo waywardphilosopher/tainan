@@ -5,16 +5,6 @@ title = "Wind and Bones"
 theme = "influencer-hugo"
 summaryLength = "30"
 paginate = 12
-image = "/images/wind-bones.png"
-
-############################# Twtitter ##############################
-
-[twitter]
-  card = "summary"
-  site = "@windandbones"
-  title = "Wind and Bones"
-  description = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham"
-  image = "/images/wind-bones.png"
 
 ############################# Plugins ##############################
 [params.plugins]
