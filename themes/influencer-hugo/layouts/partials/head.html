@@ -15,22 +15,10 @@
   {{ end }}
 
   <!-- Open Graph Template -->
+{{ template "_internal/opengraph.html" . }}
 
-  <meta property="og:title" content="Wind and Bones" />
-  <meta property="og:description" content="Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens &amp; Dr Will Buckingham" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://www.windandbones.com/images/wind-bones.png"/>
-  
-  
-  
-  
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:image" content="https://www.windandbones.com/images/wind-bones.png"/>
-  <meta name="twitter:title" content="Wind and Bones"/>
-  <meta name="twitter:description" content="Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens &amp; Dr Will Buckingham"/>
-  <meta name="twitter:site" content="@windandbones"/>
-
-
+  <!-- Twitter Card -->
+{{ template "_internal/twitter_cards.html" . }}
 
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
