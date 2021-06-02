@@ -5,6 +5,7 @@ title = "Wind and Bones"
 theme = "influencer-hugo"
 summaryLength = "30"
 paginate = 12
+images = "https://www.windandbones.com/images/wind-bones.png"
 
 ############################# Twtitter ##############################
 
