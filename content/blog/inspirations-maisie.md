@@ -24,11 +24,11 @@ type: "post"
 
 ---
 
-#### Hello, Maisie. It’s great to talk to you. We’re particularly excited because you are the first writer in our Inspirations series, where we feature writers committed to using their words to make the world a better place.
+##### Hello, Maisie. It’s great to talk to you. We’re particularly excited because you are the first writer in our Inspirations series, where we feature writers committed to using their words to make the world a better place.
 
 This is a really exciting time to be talking to you because you’ve got not one, but two books coming out in the coming few months: Danny Chung Does Not Do Maths (Piccadilly Press), published in the USA as Danny Chung Sums it Up (Amulet Books), and Tiger Warrior: Attack of the Dragon King (Orchard Books).
 
-#### So, first off, can you tell us a bit about your background, and how you first got into writing?
+##### So, first off, can you tell us a bit about your background, and how you first got into writing?
 
 I was in my late twenties when I knew I wanted to be a writer. I thought about becoming a teacher multiple times as I liked working with children, but something always made me come back to being an author. I was a trust fundraiser for a few years, where I honed my writing skills, though asking for money wasn’t my strength!
 
@@ -70,7 +70,7 @@ My move into children’s fiction came about in 2016 when I got on to the Megaph
 
 I absolutely got into writing to counter those narratives. I also am a damn-good storyteller. I’ve learnt that I can write for ALL age groups. This is not because I am some kind of magician, it’s because I have spent a lot of my time being around different kinds of humans and I have spent nearly fifteen years trying to be a better writer. If you travel and are lucky enough to live in different countries, it opens up your mind and heart to people who are like you and who aren’t like you. I still have to work through my own prejudices and through my stories I intend to create narratives where the majority of the characters are not white. I try to have nuance, and if I do have a character who is slightly stereotypical, I want them to have dimensions. The balance is trying to write cultural commonalities without falling into negative stereotypes. At the end of the day, I am simply writing about humans who have experienced life through a certain lens.
 
-#### You have said that when it comes to cultural and identity politics in relation to people of British East and Southeast Asian (BESEA) heritage, the UK is far behind the USA, and is still particularly entrenched in a kind of orientalist world-view. How can this be dismantled?**
+##### You have said that when it comes to cultural and identity politics in relation to people of British East and Southeast Asian (BESEA) heritage, the UK is far behind the USA, and is still particularly entrenched in a kind of orientalist world-view. How can this be dismantled?
 
 We still have supermarkets and small businesses using the word ‘oriental.’ If that is what the dominant society has called you for decades (and if you aren’t up on critical race theory) you wouldn’t know its negative connotations. I have books from the 90s on this subject that are from Asian American studies and very little research has been done on how BESEA characters are portrayed in British children’s literature. Dr Sarah Park Dahlen is one of the leading scholars on this area in the States. To my knowledge we don’t have a person like that in the UK.
 
@@ -86,7 +86,7 @@ There has been a massive rise in hate crimes against anyone who looks Chinese (e
 
 It has to start with people caring. If your own community doesn’t care, then who will?
 
-#### All writing is political to the extent it proposes a particular vision of what our collective existence could be. So if you imagine a young reader settling down with one of your books, as well as wanting them to have fun reading, how do you want the experience to affect them?
+##### All writing is political to the extent it proposes a particular vision of what our collective existence could be. So if you imagine a young reader settling down with one of your books, as well as wanting them to have fun reading, how do you want the experience to affect them?
 
 I agree. Writing is a political act, and the content informs our collective thoughts on what it is to be a human.
 
@@ -108,7 +108,7 @@ This time around Stephanie King from Usborne is volunteering her time to start a
 
 Megaphone is important because it’s a grassroots project so there is heart already infused into it. It’s not some tick box initiative.
 
-#### Finally, we want you to share a few of the things you love. As well as *Danny Chung* and *Tiger Warrior*, if you could send us away to read any three books, what would they be?
+##### Finally, we want you to share a few of the things you love. As well as *Danny Chung* and *Tiger Warrior*, if you could send us away to read any three books, what would they be?
 
 I loved The Leavers by Lisa Ko which is about a boy who is separated from his mother. Some of it is written from her perspective later on, and it has themes of immigration and diaspora lives.
 
