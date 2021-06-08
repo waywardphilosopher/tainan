@@ -24,9 +24,11 @@ When we set up Wind&Bones back in 2018, we wanted a name that reflected our visi
 But what's in a name? And why are we called this? 
 
 ### What's in a name?
-The reason goes back to an old Chinese book called *The Heart of Literature, and the Carving of Dragons*, written some time at the turn of the sixth century. The writer of the book was Liu Xie, a thinker who brought together the various philosophical and literary traditions of medieval China to write a beautiful, insightful text about the art of writing and, indirectly, the art of living. 
+The reason goes back to an old Chinese book called *The Heart of Literature, and the Carving of Dragons*, written some time at the turn of the sixth century. 
 
-When we were reading Liu's book, one passage in particular caught our eye: the part where Liu said that writers should  "cultivate the vigour of the wind, and make the bone robust" (or, in Chinese,  蔚彼風力，嚴此骨鯁). 
+The writer of the book was Liu Xie, a thinker who brought together the various philosophical and literary traditions of medieval China to write a beautiful, insightful text about the art of writing and, indirectly, the art of living. 
+
+When we were reading Liu's book, one passage in particular caught our eye: the part where Liu says that writers should  "cultivate the vigour of the wind, and make the bone robust" (or, in Chinese,  蔚彼風力，嚴此骨鯁). 
 
 ### Vigour and rigour
 This idea of wind and bones is so important to Liu that he dedicates a whole chapter to it. In Chinese, this chapter is called *feng gu* (風骨). *Feng* means "wind", while *gu* means "bone."  And in the brief span of a couple of pages, Liu brilliantly argues how good literature is born out of a marriage of these two things. To write, Liu says, you need *wind* — liveliness and spirtedness and vigour. But you also need *bones* — structure, and organisation, and rigour. 
