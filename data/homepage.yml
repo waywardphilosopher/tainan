@@ -61,8 +61,8 @@ service:
 ######################### Quote #############################
 quote:
   enable : true
-  quote: "We tell ourselves stories in order to live..."
-  quoteBy: "Joan Didion"
+  quote: "So cultivate the strength of the wind, and make the bone robust."
+  quoteBy: "Liu Xie — The Heart of Literature, and the Carving of Dragons (5th - 6th Century)"
 
 
 ######################### Chapters ##########################
