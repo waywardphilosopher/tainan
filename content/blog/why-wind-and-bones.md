@@ -21,7 +21,7 @@ type: "post"
 
 When we set up Wind&Bones back in 2018, we wanted a name that reflected our vision of writing, creativity and social change. And after a lot of discussion, eventually we came up with Wind&Bones. 
 
-But what's in a name? And why are we called this? 
+But what's in a name? And why are we called this? Is one of us "Wind" and one of us "Bones"? Are these are secret superhero names? Alas, no! But the real story is fun & interesting too, and it goes back to medieval China. 
 
 ### What's in a name?
 The reason goes back to an old Chinese book called *The Heart of Literature, and the Carving of Dragons*, written some time at the turn of the sixth century. 
