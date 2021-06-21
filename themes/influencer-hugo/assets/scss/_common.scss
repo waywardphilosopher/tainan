@@ -43,6 +43,21 @@ Common Styles
     color: $primary-color;
 }
 
+
+blockquote p {
+	border-left: 3px dotted #ccc;
+	color:  #698B9A;
+	padding-left: 20px;
+	position: relative;
+	min-width: 400px;
+	font-size: 1.25vw;
+	line-height: 1.4;
+	font-family: serif;
+	font-size: 1.2em;
+	margin: 20px;
+}
+
+
 /*-------------------
   BUTTONS STYLE
 ----------------=----*/
