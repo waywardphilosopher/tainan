@@ -1,6 +1,6 @@
 ---
 title: "The Stories that Make Us: Giving a voice to women survivors"
-date: 2021-10-01
+date: 2021-10-06
 draft: false
 
 # post author
