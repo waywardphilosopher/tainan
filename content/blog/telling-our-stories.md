@@ -25,10 +25,12 @@ The project is called *The Stories that Make Us: Giving a voice to women survivo
 The project will lead to the following
 
 - an overarching communication campaign, combining face-to-face events with capacity-building measures
-- the production of an illustrated book of first-person survivor stories
+- the production of an illustrated series of story-cards with text written by women survivors
 - the development of a first of its kind creative writing curriculum for domestic violence survivors in Bulgaria. 
+- An exhibition of artworks based on the stories.
+- A big launch event for the exhibition, with readings of the stories from actors, in both Bulgarian and English.
 
-The stories shared in the group will become the basis for an artist-illustrated book of survivor's stories, to be published in mid-2020, with text in both Bulgarian and English. 
+The stories shared in the group will become the basis for a series of beautiful, inspiring artist-illustrated cards with stories written by survivors in both English and Bulgarian, to be published in mid-2022. The cards will come as a boxed set and be available in bookshops across Bulgaria.  
 
 We're hugely excited by this project, which has been a long time in the making. In Bulgaria, as elsewhere, domestic abuse and domestic violence are still huge issues. Working with the brilliant Emprove Foundation, with this project we are aiming to contribute to public awareness of these issues, both in Bulgaria and regionally. And we are wanting to build more robust, supportive communities among survivors. 
 
