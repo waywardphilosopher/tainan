@@ -4,7 +4,7 @@ banner:
   writter : "Writing | Creativity | Social Change"
   title : "Wind&Bones"
   image : "images/about/frontpage.jpg"
-  content : "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham.
+  content : "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham. Based in Dundee, Scotland, we work across the globe.
   
  ### Sign up to our newsletter here"
 
@@ -92,7 +92,7 @@ We have years of experience in informal and formal education sectors, including 
 
     # chapter preview loop
     - title : "Writing & publishing"
-      content : "As Wind&Bones, we publish books and articles that we believe make a positive change. Our most recent book publication is Will Buckingham’s <em>Finding Our Sea-Legs: Ethics, Experience and the Ocean of Stories</em> (2019)."
+      content : "As Wind&Bones, we publish occasional books and articles that we believe make a positive change. Our most recent book publication is Will Buckingham’s <em>Finding Our Sea-Legs: Ethics, Experience and the Ocean of Stories</em> (2019)."
     
 ########################## Revews ###########################
 reviews:
@@ -250,7 +250,7 @@ otherBooks:
 blog:
   enable : true
   title : "Inspirations"
-  subtitle : "Read about ideas and individuals who inspire us on our Inspirations blog!"
+  subtitle : "Read about things that inspire us on our Inspirations blog!"
   # blog post comes from 'content/blog'
 
 ################################# Contact ##############################

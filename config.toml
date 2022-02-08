@@ -83,7 +83,7 @@ image_main = "images/wind-bones.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # copyright
-copyright = "&copy; 2021 Wind&Bones Company 12355764 80 Evesham Rd LE3 2BD UK"
+copyright = "&copy; 2021 Wind&Bones. Company registered in England. Company no. 12355764 80 Evesham Rd LE3 2BD UK. Now proudly based in Dundee, Scotland."
 
 # Preloader
 [params.preloader]
