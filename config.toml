@@ -108,3 +108,9 @@ content = "If you want to get in touch, you can contact Wind&Bones using this fo
 facebook = "windandboneseducation"
 instagram = "windbones"
 twitter = "windandbones"
+
+############################# Allow raw HTML ########################
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
