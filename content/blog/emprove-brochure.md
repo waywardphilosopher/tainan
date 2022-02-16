@@ -22,7 +22,7 @@ Our project with the [Emprove Foundation](https://emproveproject.eu/) working wi
 
 There will be events in Sofia, Bulgaria to mark International Women's day, a short story contest in Bulgarian, for women survivors (with the brilliant poet, our friend Nadezhda Radulova, on the judging panel), a public exhibition at the National Gallery Kvadrat 500 in Sofia, a series of literary readings and public dicussions, and finally a big launch party thanks to our partners at British Embassy, Sofia. 
 
-If you want to find out more about this exciting project, you can download the project brochure here (PDF opens in a new tab).
+If you want to find out more about this exciting project, you can download the project brochure here (PDF opens in a new tab). The brochure is designed by the wonderful Teyah L Mine.
 
 <a href="/docs/Emprove-English.pdf" class="btn btn-main-2" target="_blank">Download Here<i class="ti-angle-right ml-3"></i></a>
 
