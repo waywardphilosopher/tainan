@@ -6,6 +6,7 @@ description = "An exhibition from our project with the Emprove Foundation in Bul
 image = "/emprove-1.jpg"
 tags = ["projects"]
 title = "Awakening Between the Lines"
+type = "post"
 
 +++
 We're incredibly excited to see the next phase of our project with the Emprove Foundation in Sofia, Bulgaria.
