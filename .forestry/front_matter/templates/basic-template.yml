@@ -30,3 +30,5 @@ fields:
   label: type
   hidden: true
   default: blog
+pages:
+- content/blog/awakening-between-the-lines.md
