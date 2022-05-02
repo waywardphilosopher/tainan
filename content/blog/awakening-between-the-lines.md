@@ -1,7 +1,7 @@
 +++
 author = "Hannah&Will"
 categories = ["Writing"]
-date = 2022-05-02T10:00:00Z
+date = 2022-05-02T09:00:00Z
 description = "An exhibition from our project with the Emprove Foundation in Bulgaria."
 image = "/emprove-1.jpg"
 tags = ["projects"]
