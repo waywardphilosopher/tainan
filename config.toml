@@ -1,116 +1,70 @@
-######################## default configuration ####################
 baseURL = "https://www.windandbones.com"
 languageCode = "en-us"
-title = "Wind and Bones"
-theme = "influencer-hugo"
-summaryLength = "30"
 paginate = 12
-
-############################# Plugins ##############################
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "plugins/magnific-popup/magnific-popup.css"
-  
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/magnific-popup/magnific-popup.min.js"
-
-  
-############################## navigation ###############################
-[menu]
-
-[[menu.main]]
-name = "Home"
-URL = "banner"
-weight = 1
-    
-    
-    [[menu.main]]
-    name = "About"
-    URL = "author"
-    weight = 2
-    
-  [[menu.main]]
-  name = "Our work"
-  URL = "device"
-  weight = 3
-  
-  
-  [[menu.main]]
-  name = "Projects"
-  URL = "chapter"
-  weight = 4
-  
-  [[menu.main]]
-  name = "Reviews"
-  URL = "review"
-  weight = 5
-  
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 6
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 7
-
-
-#################### default parameters ################################
-[params]
-logo = ""
-home = "Home"
-# Meta data
-author = "Wind&Bones"
-description = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham"
-image_main = "images/wind-bones.png"
-
-# Google Analitycs
-googleAnalitycsID = "" # Your ID
-# copyright
-copyright = "&copy; 2021 Wind&Bones. Company registered in England. Company no. 12355764 80 Evesham Rd LE3 2BD UK. Now proudly based in Dundee, Scotland."
-
-# Preloader
-[params.preloader]
-enable = true
-preloader = "" # use .png , .svg or .gif format
-
-# Navigation get start button
-[params.navButton]
-enable = true
-
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
-  
-############################# Footer ########################
-[params.footer]
-content = "If you want to get in touch, you can contact Wind&Bones using this form. We will get back to you as soon as we can."
-
-############################# Social ########################
+summaryLength = "30"
+theme = "influencer-hugo"
+title = "Wind and Bones"
 [Social]
 facebook = "windandboneseducation"
 instagram = "windbones"
 twitter = "windandbones"
-
-############################# Allow raw HTML ########################
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 7
+[[menu.main]]
+URL = "review"
+name = "Reviews"
+weight = 5
+[[menu.main]]
+URL = "chapter"
+name = "Projects"
+weight = 4
+[[menu.main]]
+URL = "device"
+name = "Our work"
+weight = 3
+[[menu.main]]
+URL = "author"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "banner"
+name = "Home"
+weight = 1
+[params]
+author = "Wind&Bones"
+copyright = "&copy; 2021 Wind&Bones. Company registered in England. Company no. 12355764 80 Evesham Rd LE3 2BD UK. Now proudly based in Dundee, Scotland."
+description = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham"
+googleAnalitycsID = ""
+home = "Home"
+image_main = "images/wind-bones.png"
+logo = ""
+[params.cookies]
+enable = true
+expire_days = 2
+[params.footer]
+content = "If you want to get in touch, you can contact Wind&Bones using this form. We will get back to you as soon as we can."
+[params.navButton]
+enable = true
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/magnific-popup.min.js"
+[params.preloader]
+enable = true
+preloader = ""
