@@ -28,7 +28,7 @@ fields:
 - type: text
   name: type
   label: type
-  hidden: true
-  default: blog
+  hidden: false
+  default: post
 pages:
 - content/blog/awakening-between-the-lines.md
