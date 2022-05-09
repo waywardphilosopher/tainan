@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/fox-geese.png"
+image: "images/news/fox-geese.png"
 
 # meta description
 description: "A podcast interview with Dr Tim Hannigan for Dublin City University"

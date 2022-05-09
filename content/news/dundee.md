@@ -2,7 +2,7 @@
 title: Wind&Bones are now based in Dundee!
 date: 2022-01-31
 author: Will & Hannah
-image: images/blog/dundee.jpeg
+image: "images/news/dundee.jpeg"
 description: We've moved our headquarters from Sofia, Bulgaria, to Dundee, Scotland.
   And it's great to be here!
 categories:

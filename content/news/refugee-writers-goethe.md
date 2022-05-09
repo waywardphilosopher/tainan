@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/10.jpeg"
+image: "images/news/10.jpeg"
 
 # meta description
 description: "A refugee writers' workshop at the Goethe Institut, in collaboration with Caritas"
@@ -22,7 +22,7 @@ type: "post"
 Last week, we were privileged to be invited to the Goethe Institut in Sofia, Bulgaria, to run a workshop for refugee writers in collaboration with Caritas Sofia. After a year of lockdown and semi-lockdown here in Bulgaria, it was a genuine pleasure to be getting back to working with people face-to-face.
 
 We were in the Goethe Institut's beautiful new library space, working with a talented group of writers from Iraq, Palestine, Kurdistan, Somalia and elsewhere, exploring the stories that make us, and that power that creative nonfiction has to build connection and friendships, and to change the world. 
-  
+
 It's always fun running writing workshops in multiple languages. So we wrote, told and shared stories in Somali, Arabic and English (with a smattering of Bulgarian), all with the help of Sophia, the brilliant and tireless translator from Caritas. 
 
 #### Stories 

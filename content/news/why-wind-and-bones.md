@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/dragons.jpg"
+image: "images/news/dragons.jpg"
 
 # meta description
 description: "Why we are called Wind&Bones"

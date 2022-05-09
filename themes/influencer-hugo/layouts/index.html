@@ -329,10 +329,10 @@
 {{ end }}
 
 <!-- Latest blog -->
-{{ if .Site.Data.homepage.blog.enable }}
+{{ if .Site.Data.homepage.news.enable }}
 <section class="section blog-home border-top" id="blog">
   <div class="container">
-    {{ with .Site.Data.homepage.blog }}
+    {{ with .Site.Data.homepage.news }}
     <div class="row justify-content-center">
       <div class="col-lg-6">
         <div class="section-heading text-center">
@@ -350,7 +350,7 @@
       {{ end }}
     </div>
     <div class="text-center mt-5">
-      <a href="/blog" class="btn btn-main">All Posts</a>
+      <a href="/news" class="btn btn-main">All Posts</a>
     </div>
   </div>
 </section>

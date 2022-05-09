@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/myanmar.jpg"
+image: "images/news/myanmar.jpg"
 
 # meta description
 description: "Education in Post-Coup Myanmar"

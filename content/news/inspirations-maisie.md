@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/dannychung.jpg"
+image: "images/news/dannychung.jpg"
 
 # meta description
 description: "Writer Maisie Chan on writing, representation and how to be a damn good storyteller."
@@ -38,7 +38,7 @@ Soon after, I gained a place on the National Academy of Writing Course at Birmin
 
 Actually, Will (from Wind&Bones) was the first person to publish something that I wrote. It was the Last Hao Gao – a 300 micro-story for Birmingham Words online. It was such a big deal to me that someone out there liked something I wrote. Many thanks for that huge boost!
 
-![Maisie Chan](/images/blog/maisie.jpg)
+![Maisie Chan](images/news/maisie.jpg)
 
 ##### As a British Chinese writer, you’ve talked about how growing up, very few books you had access to featured Chinese people, or reflected your own experience. What effect did this have on you as a reader, a future writer, and a human being?
 

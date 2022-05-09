@@ -7,7 +7,7 @@ draft: false
 author : "Will Buckingham"
 
 # post thumb
-image: "images/blog/pleasure.jpg"
+image: "images/news/pleasure.jpg"
 
 # meta description
 description: "On the myth of the suffering artist."

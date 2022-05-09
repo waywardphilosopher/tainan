@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/emprove-english.jpg"
+image: "images/news/emprove-english.jpg"
 
 # meta description
 description: "Find out about our fabulous project with the Emprove Foundation"

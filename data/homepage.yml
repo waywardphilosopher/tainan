@@ -247,7 +247,7 @@ otherBooks:
       link : "#"
 
 ################################ Blog ###################################
-blog:
+news:
   enable : true
   title : "News"
   subtitle : "Read about what we're up to on the Wind&Bones blog!"

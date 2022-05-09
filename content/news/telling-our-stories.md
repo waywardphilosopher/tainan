@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/typewriter-woman.jpg"
+image: "images/news/typewriter-woman.jpg"
 
 # meta description
 description: "A new project with the Emprove Foundation, working with women survivors of domestic abuse"

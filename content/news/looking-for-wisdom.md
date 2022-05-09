@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/LookingForWisdom2-1.jpg"
+image: "images/news/LookingForWisdom2-1.jpg"
 
 # meta description
 description: "About a new collaboration between Wind&Bones and Looking for Wisdom, a project that brings the world's philosophy straight to your inbox"

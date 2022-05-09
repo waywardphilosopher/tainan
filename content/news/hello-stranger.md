@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/quiver.jpg"
+image: "images/news/quiver.jpg"
 
 # meta description
 description: "Hello, Stranger hits the shops this July."

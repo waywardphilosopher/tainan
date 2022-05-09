@@ -7,7 +7,7 @@ draft: false
 author : "Will & Hannah"
 
 # post thumb
-image: "images/blog/emprove-course.jpg"
+image: "images/news/emprove-course.jpg"
 
 # meta description
 description: "Our storytelling project with the Emprove Foundation is the first of its kind in Bulgaria. And it starts this weekend."
