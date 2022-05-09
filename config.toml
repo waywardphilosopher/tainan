@@ -3,7 +3,7 @@ languageCode = "en-us"
 paginate = 12
 summaryLength = "30"
 theme = "influencer-hugo"
-title = "Wind and Bones"
+title = "Wind&Bones"
 [Social]
 facebook = "windandboneseducation"
 instagram = "windbones"
