@@ -11,11 +11,6 @@ twitter = "windandbones"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "blog"
-name = "News"
-url = "https://www.windandbones.com/news"
-weight = 6
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 7
