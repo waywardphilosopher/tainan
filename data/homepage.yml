@@ -82,7 +82,7 @@ We have worked with small grassroots organisations and multi-national NGOs, help
     - title : "Writer development"
       content : "We love working with writers to develop their unique vision. We work one-on-one and in small groups to help people make their voices heard.
 
-We offer mentoring and courses through our online learning portal. We also partner with a wide variety of organisations including universities, community groups and charities, to develop bespoke writing courses."
+We offer mentoring for individual writers. We also partner with a wide variety of organisations including universities, community groups and charities, to develop bespoke writing courses."
 
     # chapter preview loop
     - title : "Educational consultancy"
@@ -159,16 +159,16 @@ Our work takes us across the world. So wherever you are, we can work with you."
     # feature item loop
     - title : "For individuals"
       icon : "ti-user" # themify icon pack : https://themify.me/themify-icons
-      content : "We offer writing courses and mentoring for individuals. Whether you are just starting out in your writing career or have years of experience, we have something for you.
+      content : "We offer mentoring for individuals. Whether you are just starting out in your writing career or have years of experience, we have something for you.
 
-Find out more on our courses site."
+Find out more on our mentoring site."
 
 
   # button
   button:
     enable : true
-    label : "Our courses"
-    link : "https://courses.windandbones.com"
+    label : "Mentoring"
+    link : "https://mentor.windandbones.com"
 
 ######################################## author #############################
 author:
@@ -249,8 +249,8 @@ otherBooks:
 ################################ Blog ###################################
 blog:
   enable : true
-  title : "Inspirations"
-  subtitle : "Read about things that inspire us on our Inspirations blog!"
+  title : "News"
+  subtitle : "Read about what we're up to on the Wind&Bones blog!"
   # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
