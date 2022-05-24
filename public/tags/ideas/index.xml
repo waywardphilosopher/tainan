@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ideas on Wind&amp;Bones</title><link>https://www.windandbones.com/tags/ideas/</link><description>Recent content in ideas on Wind&amp;Bones</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.windandbones.com/tags/ideas/index.xml" rel="self" type="application/rss+xml"/><item><title>Education in Post-Coup Myanmar</title><link>https://www.windandbones.com/news/education-myanmar/</link><pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate><guid>https://www.windandbones.com/news/education-myanmar/</guid><description>We&amp;rsquo;ve been working on a few new projects recently, including a collaboration with Parami University in Myanmar. We were writers in residence at Parami back in 2018-2019, and after the military coup of February 1st this year, we&amp;rsquo;ve been deeply preoccupied with the unfolding situation over there.</description></item><item><title>Looking for Wisdom: A New Collaboration for Wind&amp;Bones</title><link>https://www.windandbones.com/news/looking-for-wisdom/</link><pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate><guid>https://www.windandbones.com/news/looking-for-wisdom/</guid><description>We&amp;rsquo;re delighted that Looking for Wisdom, the philosophy-by-email project run by Dr Will Buckingham, is now a part of Wind&amp;amp;Bones. At Wind&amp;amp;Bones, we believe that creative writing and creative thinking have the power to change the world.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ideas on Wind&amp;Bones</title>
+    <link>https://www.windandbones.com/tags/ideas/</link>
+    <description>Recent content in ideas on Wind&amp;Bones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.windandbones.com/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education in Post-Coup Myanmar</title>
+      <link>https://www.windandbones.com/news/education-myanmar/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.windandbones.com/news/education-myanmar/</guid>
+      <description>We&amp;rsquo;ve been working on a few new projects recently, including a collaboration with Parami University in Myanmar. We were writers in residence at Parami back in 2018-2019, and after the military coup of February 1st this year, we&amp;rsquo;ve been deeply preoccupied with the unfolding situation over there.</description>
+    </item>
+    
+    <item>
+      <title>Looking for Wisdom: A New Collaboration for Wind&amp;Bones</title>
+      <link>https://www.windandbones.com/news/looking-for-wisdom/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.windandbones.com/news/looking-for-wisdom/</guid>
+      <description>We&amp;rsquo;re delighted that Looking for Wisdom, the philosophy-by-email project run by Dr Will Buckingham, is now a part of Wind&amp;amp;Bones. At Wind&amp;amp;Bones, we believe that creative writing and creative thinking have the power to change the world.</description>
+    </item>
+    
+  </channel>
+</rss>
