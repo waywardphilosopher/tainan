@@ -1,26 +1,23 @@
 ---
+draft: false
 title: "The Stories That Make Us: Addressing Domestic Abuse Through Storytelling"
 date: 2021-11-11
-draft: false
-
-# post author
-author : "Will & Hannah"
-
-# post thumb
-image: "images/news/emprove-course.jpg"
-
-# meta description
-description: "Our storytelling project with the Emprove Foundation is the first of its kind in Bulgaria. And it starts this weekend."
-
-# taxonomies
-categories: ["News"]
-tags: ["workshop", "domestic abuse", "gender", "writing"]
-# post type
-type: "post"
+description: Our storytelling project with the Emprove Foundation is the first
+  of its kind in Bulgaria. And it starts this weekend.
+author: Will & Hannah
+tags:
+  - workshop
+  - domestic abuse
+  - gender
+  - writing
+type: post
+categories:
+  - News
+image: images/news/emprove-course.jpg
 ---
 This weekend we're getting started on our new project with Bulgaria's Emprove Foundation, working on a storytelling project with women survivors of domestic abuse.
 
-The project is funded by British Embassy, Sofia, and is the first of its kind in Bulgaria. We'll be working intensively with a group of women survivors over a period of six weeks, developing skills in storytelling, and giving shape to an exciting new publiction in both Bulgarian and English languages, due out in 2022.
+The project is funded by British Embassy, Sofia, and is the first of its kind in Bulgaria. We'll be working intensively with a group of women survivors over a period of six weeks, developing skills in storytelling, and giving shape to an exciting new publication in both Bulgarian and English languages, due out in 2022.
 
 The course is timed to tie in with the UN's [International Day for the Elimination of Violence Against Women](https://www.un.org/en/observances/ending-violence-against-women-day). Data from the previous year and a half has shown that since the beginning of Covid-19, domestic violence and abuse has intensified across the world. UN Women refer to this as a "Shadow Pandemic". 
 
