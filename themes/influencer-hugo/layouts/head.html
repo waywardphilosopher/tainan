@@ -1,0 +1,53 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Site.Title }}</title>
+
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+  {{ "<!-- plugins -->" | safeHTML }}
+  {{ range .Site.Params.plugins.css }}
+  <link rel="stylesheet" href="{{ .URL | absURL }} ">
+  {{ end }}
+
+  <!-- Open Graph Template -->
+ {{ template "_internal/opengraph.html" . }} 
+
+
+  <!-- Twitter Card -->
+ {{ template "_internal/twitter_cards.html" . }} 
+
+
+  {{ with .Param "image_main" -}}
+  <meta name=”twitter:card” content=”summary_large_image”>
+  <meta name="twitter:image" content="https://www.windandbones.com/images/wind-bones.png">
+  {{ end -}}
+
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="https://www.windandbones.com/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://www.windandbones.com/images/favicon.ico" type="image/x-icon">
+  <script async defer data-domain="windandbones.com" src="https://plausible.io/js/plausible.js"></script>
+  <!-- MailerLite Universal -->
+  <script>
+    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+      var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+      f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+      var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+      _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+    
+    var ml_account = ml('accounts', '2718841', 'g7f4j4u2d5', 'load');
+  </script>
+  <!-- End MailerLite Universal -->
+
+  <!-- Netlify identity widget -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+</head>
