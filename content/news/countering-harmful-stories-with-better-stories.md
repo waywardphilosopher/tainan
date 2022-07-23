@@ -3,6 +3,7 @@ title: Countering Harmful Stories With Better Stories
 date: 2022-07-22T11:22:43.550Z
 description: A speech given at the British Ambassador's Residence on 13th July 2022.
 author: Hannah & Will
+type: post
 categories:
   - News
 tags:
