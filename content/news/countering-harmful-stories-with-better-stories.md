@@ -5,6 +5,11 @@ description: A speech given at the British Ambassador's Residence on 13th July 2
 author: Hannah & Will
 categories:
   - News
+tags:
+  - news
+  - projects
+  - writing
+  - creativity
 image: /images/news/294829902_3190583127858272_3141773590420928149_n.jpeg
 ---
 *Last week, we were at the British Ambassador's Residence in Sofia for a fundraising event with the Emprove Foundation for our Awakening Between the Lines Project. Here's the speech that we wrote for the event.*
