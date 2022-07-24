@@ -3,7 +3,6 @@ title: Countering Harmful Stories With Better Stories
 date: 2022-07-22T11:22:43.550Z
 description: A speech given at the British Ambassador's Residence on 13th July 2022.
 author: Hannah & Will
-type: post
 categories:
   - News
 tags:
@@ -11,9 +10,10 @@ tags:
   - projects
   - writing
   - creativity
+type: post
 image: /images/news/294829902_3190583127858272_3141773590420928149_n.jpeg
 ---
-*Last week, we were at the British Ambassador's Residence in Sofia for a fundraising event with the Emprove Foundation for our Awakening Between the Lines Project. Here's the speech that we wrote for the event.*
+*Last week, we were at the British Ambassador's Residence in Sofia for a fundraising event with the [Emprove Foundation](https://emproveproject.eu/) for our [Awakening Between the Lines](https://nationalgallery.bg/exhibitions/awakening-between-the-lines/) Project. Here's the speech that we wrote for the event.*
 
 \---
 
