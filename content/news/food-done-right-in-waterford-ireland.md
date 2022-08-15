@@ -1,5 +1,5 @@
 ---
-title: Food Done Right,  in Waterford, Ireland
+title: Food Done Right, in Waterford, Ireland
 date: 2022-08-15T18:52:36.305Z
 description: This September, we're off to Ireland to the Waterfood Harvest Festival
 author: Hannah & Will
