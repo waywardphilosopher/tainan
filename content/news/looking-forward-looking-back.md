@@ -12,7 +12,7 @@ tags:
 image: /images/news/hannah-will.jpeg
 ---
 
-H﻿appy New Year from Madeira, where we are taking a working break for a couple of weeks. While here in Funchal, we're looking over what we have done in 2022 — it was a bumper year for us at Wind&Bones — and making plans for 2023.
+H﻿appy New Year from Madeira, where we are taking a working break for a couple of weeks. While here in Funchal, we're looking over what we have done in 2022 and making plans for 2023.
 
 ## 2﻿022 in Review
 
