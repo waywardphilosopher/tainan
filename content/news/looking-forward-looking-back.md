@@ -3,13 +3,12 @@ title: Looking Forward, Looking Back
 date: 2023-01-05T12:56:13.319Z
 description: A review of the year, and what's coming up in 2023
 author: Hannah & Will
-type: posts
+type: post
 categories:
   - News
 tags:
   - projects
   - workshops
-  - ""
 image: /images/news/hannah-will.jpeg
 ---
 
