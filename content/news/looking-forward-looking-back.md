@@ -20,7 +20,7 @@ H﻿appy New Year from Madeira, where we are taking a working break for a couple
 
 L﻿ast year was incredibly busy. The most significant change was that we moved from Sofia, Bulgaria, to Dundee, Scotland. After almost 2½ years working in Bulgaria, we felt like we needed to reconnect to our UK roots, so we moved up to Scotland. 
 
-One quirk of UK company law is that you can't move a business over the border from England to Scotland. So, as Wind&Bones CIC was registered in Leicester, we set about dissolving the old company and setting up a shiny new Wind&Bones CIC based in Dundee. It was a slightly complicated process (you can read about it [here]:https://www.windandbones.com/news/scotland/), but by the summer, we had our new company in place.
+One quirk of UK company law is that you can't move a business over the border from England to Scotland. So, as Wind&Bones CIC was registered in Leicester, we set about dissolving the old company and setting up a shiny new Wind&Bones CIC based in Dundee. It was a slightly complicated process (you can read about it [here](https://www.windandbones.com/news/scotland/), but by the summer, we had our new company in place.
 
 ### Food, Glorious Food
 
@@ -64,7 +64,7 @@ We've got all kinds of writing projects in the work for next year as well. We'll
 
 We also worked with Dr  Ariane Karbe on her book proposal for *Museum Exhibitions and Suspense: The Use of Screenwriting Techniques in Curatorial Practice*, and are really excited to see the book out in the wild — at the time of writing, just a few weeks old!
 
-You can find out more about our mentoring [here]:(https://mentor.windandbones.com).
+You can find out more about our mentoring [here](https://mentor.windandbones.com).
 
 ## Into the New Year...
 
