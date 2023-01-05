@@ -12,13 +12,13 @@ tags:
 image: /images/news/hannah-will.jpeg
 ---
 
-H﻿appy New Year from Madeira, where we are taking a working break for a couple of weeks. While here in Funchal, we're looking over what we have done in 2022 and making plans for 2023.
+Happy New Year from Madeira, where we are taking a working break for a couple of weeks. While here in Funchal, we're looking over what we have done in 2022 and making plans for 2023.
 
-## 2﻿022 in Review
+## 2022 in Review
 
 ### Wind&Bones move to Scotland
 
-L﻿ast year was incredibly busy. The most significant change was that we moved from Sofia, Bulgaria, to Dundee, Scotland. After almost 2½ years working in Bulgaria, we felt like we needed to reconnect to our UK roots, so we moved up to Scotland. 
+Last year was incredibly busy. The most significant change was that we moved from Sofia, Bulgaria, to Dundee, Scotland. After almost 2½ years working in Bulgaria, we felt like we needed to reconnect to our UK roots, so we moved up to Scotland. 
 
 One quirk of UK company law is that you can't move a business over the border from England to Scotland. So, as Wind&Bones CIC was registered in Leicester, we set about dissolving the old company and setting up a shiny new Wind&Bones CIC based in Dundee. It was a slightly complicated process (you can read about it [here](https://www.windandbones.com/news/scotland/)), but by the summer, we had our new company in place.
 
