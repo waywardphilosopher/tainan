@@ -14,7 +14,7 @@ image: /images/news/hannah-will.jpeg
 
 Happy New Year from Madeira, where we are taking a working break for a couple of weeks. While here in Funchal, we're looking over what we have done in 2022 and making plans for 2023.
 
-## 2022 in Review
+# 2022 in Review
 
 ### Wind&Bones move to Scotland
 
@@ -48,7 +48,7 @@ Not only did the project lead to an exhibition in the national gallery, but the 
 
 ### Heading South
 
-We finished the year with a couple of weeks south of the border in England. At De Montfort University in Leicester, Will ran a Wind&Bones workshop in storytelling and effective communication with a small group of art students. Then we headed down to London, where we met students at the London College of Communication. Students from the college in magazine publishing and marketing are using our work at Wind&Bones as a case-study, exploring how we can develop our brand and our profile. We are really excited to see what they come up with when the results of this pilot come flooding in, some time in the middle of January.
+We finished the year with a couple of weeks south of the border in England. At De Montfort University in Leicester, Will ran a Wind&Bones workshop in storytelling and effective communication with a small group of art students. Then we headed down to London, where we met students at the London College of Communication. Students in magazine publishing and marketing are using our work at Wind&Bones as a case-study, exploring how we can develop our brand and our profile. We are really excited to see what they come up with when the results of this pilot come flooding in, some time in the middle of January.
 
 ### Writing, Writing, Writing
 
@@ -66,7 +66,7 @@ We also worked with Dr  Ariane Karbe on her book proposal for *Museum Exhibition
 
 You can find out more about our mentoring [here](https://mentor.windandbones.com).
 
-## Into the New Year...
+# Into the New Year...
 
 So what do we have planned for 2023? First up, we've got a new partnership with the Premise Institute, and we're running our first partner workshop with them on February 4th 2023. [You can find out more here](https://www.premiseinstitute.com/courses/p/hellostranger). We've also been speaking to friends at Trade Sexual Health in Leicester, and Blunt Knife in Edinburgh about possible collaborations. And we've just relaunched our [Looking for Wisdom project](https://www.lookingforwisdom.com), and have big plans there as well.
 
