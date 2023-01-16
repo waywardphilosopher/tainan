@@ -11,14 +11,10 @@ const response = await fetch(
   {
     method: 'POST',
     headers: {
-      'Authorization': `${MAILBLUSTER_API_KEY}`,
+      Authorization: `Token ${MAILBLUSTER_API_KEY}`,
       'Content-Type': 'application/json',
-      'Cache-Control': 'no-cache',
     },
-    body: JSON.stringify({ email: payload.email,
-      subscribed: false,
-      doubleOptIn: true,
-    }),
+    body: JSON.stringify({ email: payload.email }),
   }
 );
 
