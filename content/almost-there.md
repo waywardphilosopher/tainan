@@ -1,13 +1,9 @@
 ---
-title: "Almost there!"
-date: 2021-06-01T15:28:43+06:00
-draft: false
-layout: simple
-description: "Signup almost complete"
-image: " https://www.windandbones.com/images/wind-bones.png"
-
+title: Almost there!
+image: ''
 ---
+Thank you for signing up! You are almost there. All you need to do now is check your email, and click the confirmation link. Then you're good to go.
 
-## Almost there!
+*Can't find the email?* ***Check your spam box!*** *If you mark Looking for Wisdom emails as non-spam, that will help them be delivered to the right place!*<br />
 
-You are almost there! To complete your signup, check your email and click the confirm link. It's great to have you on board. 
+<div class="section__navigation"><a href="/" class="button button--primary section-button">Return to the home page</a></div>

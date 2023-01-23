@@ -1,13 +1,9 @@
 ---
-title: "Thank you!"
-date: 2021-06-01T15:28:43+06:00
-draft: false
-layout: simple
-description: "Thank you page for Wind&Bones newsletter signup"
-image: " https://www.windandbones.com/images/wind-bones.png"
-
+title: Thanks
+image: '/images/hotair.jpg'
 ---
+Thank you for signing up to Looking for Wisdom's email newsletter! It's really good to have you on board. 
 
-## Thank you!
+Remember that we also have a [small Facebook community](https://www.facebook.com/groups/lookingforwisdom) where you can chat to fellow subscribers.
 
-Thank you for signing up to our newsletter! It's great to have you on board.
+<div class="section__navigation"><a href="/" class="button button--primary section-button">Return to the home page</a></div>

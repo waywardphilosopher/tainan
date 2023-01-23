@@ -1,70 +1,282 @@
-baseURL = "https://www.windandbones.com"
+#-------------------------------
+# General Site Settings
+baseURL = "http://example.org/"
 languageCode = "en-us"
-paginate = 12
-summaryLength = "30"
-theme = "influencer-hugo"
 title = "Wind&Bones"
-[Social]
-facebook = "windandboneseducation"
-instagram = "windbones"
-twitter = "windandbones"
-[markup.goldmark.renderer]
-unsafe = true
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
-[[menu.main]]
-URL = "review"
-name = "Reviews"
-weight = 5
-[[menu.main]]
-URL = "chapter"
-name = "Projects"
-weight = 4
-[[menu.main]]
-URL = "device"
-name = "Our work"
-weight = 3
-[[menu.main]]
-URL = "author"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "banner"
-name = "Home"
-weight = 1
+googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+paginate = 9
+
 [params]
-author = "Wind&Bones"
-copyright = "&copy; 2021 - 2022 Wind&Bones Community Interest Company. Company registered in Scotland. Company no. SC734907 3/L, 48 Cleghorn Street, Dundee. DD2 2NJ."
-description = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham"
-googleAnalitycsID = ""
-home = "Home"
-image_main = "images/wind-bones.png"
-logo = ""
-[params.cookies]
-enable = true
-expire_days = 2
-[params.footer]
-content = "If you want to get in touch, you can contact Wind&Bones using this form. We will get back to you as soon as we can."
-[params.navButton]
-enable = true
-[[params.plugins.css]]
-URL = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-URL = "plugins/slick/slick.css"
-[[params.plugins.css]]
-URL = "plugins/themify-icons/themify-icons.css"
-[[params.plugins.css]]
-URL = "plugins/magnific-popup/magnific-popup.css"
-[[params.plugins.js]]
-URL = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
-URL = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-URL = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-URL = "plugins/magnific-popup/magnific-popup.min.js"
-[params.preloader]
-enable = true
-preloader = ""
+  logo = "" # You can add own logo. For example "/images/logo.png".
+  description = "Writing, Creativity and Social Change"
+  color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+[taxonomies]
+  tag = 'tags'
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "News"
+    url = "/posts/"
+    weight = 3
+
+[[menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 4
+
+[[menu.main]]
+      name = "Search"
+      url = "/search/"
+      weight = 5
+
+[[menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 6
+
+      # Footer Menu
+      [[menu.footer]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+      [[menu.footer]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects/"
+      weight = 2
+
+      [[menu.footer]]
+      identifier = "blog"
+      name = "News"
+      url = "/posts/"
+      weight = 3
+
+      [[menu.footer]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 4
+
+      [[menu.footer]]
+      identifier = "elements"
+      name = "Search"
+      url = "/search/"
+      weight = 5
+      
+      [[menu.footer]]
+      identifier = "elements"
+      name = "privacy"
+      url = "/privacy/"
+      weight = 6
+      
+      [[menu.footer]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 7
+
+  #-------------------------------
+  # Author Settings
+  [params.author]
+    author__name = "Wind&Bones"
+    author__bio = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham. Based in Dundee, Scotland, we work across the globe."
+    author__avatar = "https://via.placeholder.com/500x500"
+
+  # Social Links
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://facebook.com"
+
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://instagram.com"
+
+  [[params.social]]
+    icon = "ion-logo-pinterest"
+    name = "Pinterest"
+    link = "https://pinterest.com"
+
+  [[params.social]]
+    icon = "ion-logo-github"
+    name = "Github"
+    link = "https://github.com"
+
+  # Example of adding a new link to the footer:
+  # [[params.social]]
+  #   icon = "ion-logo-youtube"
+  #   name = "Youtube"
+  #   link = "https://youtube.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+    enable = true
+    hero__title = "Wind&Bones"
+    hero__description = "Writing and storytelling for social change. Based in Dundee, Scotland, we run projects across the globe. Run by writers Dr Hannah Stevens & Dr Will Buckingham."
+    hero__image = "/images/about/frontpage.jpg"
+
+
+  #-------------------------------
+  # Newsletter Settings
+  [params.mailchimp]
+    enable = true
+    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__input__text = "Your email address..."
+    mailchimp__button__text = "Get updates" # Add your button text
+
+
+  #-------------------------------
+  # Mentoring Settings
+  [params.mentor]
+    enable = true
+    mentor__title= "Mentoring with Wind&Bones"
+    mentor__description = "Wind&Bones offer mentoring for writers at all stages of their careers, from absolute beginners to writers with years of experience. Our mentoring packages are designed to work around your needs, so you can reach your writing goals."
+    mentor__image = "images/mentor/writer.jpg"
+
+  
+  
+  #-------------------------------
+  
+  #-------------------------------
+  # Projects Settings
+  [params.projects]
+    enable = true
+    projects__title= "Our Recent Projects"
+    projects__description= "We work around the globe on projects exploring the meeting-places between writing, creativity and social change."
+
+
+  #-------------------------------
+  # Testimonials Section
+  [params.testimonials]
+    enable = true
+    testimonial__title = "What people are saying"
+    testimonial__description = ""
+
+  [[params.testimonial_item]]
+    name = "Katie Julian"
+    image = "images/client/kt.jpg"
+    designation = "Curriculum Manager at Mote Oo Education, Myanmar"
+    link = "https://twitter.com/"
+    content = "I cannot recommend Wind&Bones more highly. Aside from their proficiency in bending words to their will and whim, they are also delightful people to work with: warm, witty, caring, with dollops of high-level professionalism. You will not regret time spent working with Hannah and Will."
+
+  [[params.testimonial_item]]
+    name = "Konstantinos Achile"
+    image = "images/client/kostas.jpg"
+    designation = "Youth Development Lead at Refugee Trauma Initiative"
+    link = "https://facebook.com/"
+    content = "We worked together at Refugee Trauma Initiative, running a creative writing workshop in Thessaloniki, Greece with young displaced people. They were amazing, extremely professional and most importantly they knew what they were doing. I highly recommend them!"
+
+  [[params.testimonial_item]]
+    name = "Professor Carla Nappi"
+    image = "images/client/carla.jpg"
+    designation = "Andrew W. Mellon Chair, Department of History, Pittsburgh University."
+    link = "https://facebook.com/"
+    content = "Huge thanks to the Wind&Bones team for helping me through a stuck patch in a fiction writing project.  Will Buckingham and Hannah Stevens are fabulous writing mentors (and just generally awesome and brilliant humans), doing really cool things. Check out their work, y’all."
+  
+  [[params.testimonial_item]]
+    name = "Amjad Mestari"
+    image = "images/client/amjad.jpg"
+    designation = "Founder, Garage Cultural Centre, Jordan"
+    link = "https://twitter.com/"
+    content = "Hannah and Will created an atmosphere which made me—and I think everyone—feel safe and accepted. In the class, I felt appreciated and valued, and overall it was one of the most positive workshops I have ever attended. Also, Hannah and Will are some of the nicest people I’ve ever met – always giving a positive energy."
+
+  [[params.testimonial_item]]
+    name = "Grace Susetyo"
+    image = "images/client/grace.jpg"
+    designation = "Writer and journalist, Indonesia"
+    link = "https://facebook.com/"
+    content = "The Wind&Bones mini-course I joined was both a thought-provoking lesson and an inviting space to collaborate with fellow participants. Wind& Bones show writers how to write more ethically, and find that sweet spot between addressing hard issues and telling inspiring stories about humanity."
+
+  [[params.testimonial_item]]
+    name = "Dr. Angela Stienne"
+    image = "images/client/angela.jpg"
+    designation = "Egyptologist and author. Creator of Mummy Stories & The Lyme Museum."
+    link = "https://twitter.com/"
+    content = "I cannot recommend Wind&Bones more highly. Aside from their proficiency in bending words to their will and whim, they are also delightful people to work with: warm, witty, caring, with dollops of high-level professionalism. You will not regret time spent working with Hannah and Will."
+    
+
+  #-------------------------------
+  # Blog Section
+  [params.blog]
+    enable = true
+    blog__title = "Recent News"
+    blog__description = ""
+
+
+  #-------------------------------
+  # Gallery Footer Settings
+  [params.gallery]
+    enable = false
+
+  [[params.gallery_image]]
+    image_alt = "Rest"
+    image_url = "https://via.placeholder.com/800x800"
+
+  [[params.gallery_image]]
+    image_alt = "Lifestyle"
+    image_url = "https://via.placeholder.com/800x800"
+
+  [[params.gallery_image]]
+    image_alt = "Hobby"
+    image_url = "https://via.placeholder.com/800x800"
+
+  [[params.gallery_image]]
+    image_alt = "Notes"
+    image_url = "https://via.placeholder.com/800x800"
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    contact__email = "your@email.com" # Add your form_id
+
+    # NOTE
+    # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = false
+    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
