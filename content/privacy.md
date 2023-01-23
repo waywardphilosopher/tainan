@@ -12,7 +12,7 @@ title = "Privacy"
 
 ## Who are we
 
-[Wind&Bones CIC](https://www.windandbones.com is a social enterprise dedicated to writing, creativity and social change. Wind&Bones is run by Dr Will Buckingham and Dr Hannah Stevens, and is based in Dundee, Scotland.
+[Wind&Bones CIC](https://www.windandbones.com) is a social enterprise dedicated to writing, creativity and social change. Wind&Bones is run by Dr Will Buckingham and Dr Hannah Stevens, and is based in Dundee, Scotland.
 
 ## What personal data we collect and why we collect it
 
