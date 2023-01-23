@@ -19,7 +19,7 @@ When it came to sharing, we asked participants to introduce their stories with a
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/writehere/refugee-writers.jpg" loading="lazy" alt="Write here project">
+    <img src="/images/projects/writehere/writingrefuge.jpg" loading="lazy" alt="Write here project">
     <img src="/images/projects/writehere/will-han.jpg" loading="lazy" alt="Will and Hannah">
     <img src="/images/projects/writehere/will-pawtalking.jpg" loading="lazy" alt="Will talking about writing">
   </div>
