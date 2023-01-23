@@ -11,7 +11,7 @@
   outline: none;
   cursor: pointer;
   transition: all .2s;
-  color: var(--dark);
+  color: var(--white);
   background: var(--brand-color);
 
   &:hover {
@@ -24,6 +24,7 @@
 
     &:hover {
       background: var(--button-background-hover);
+      color: var(--white) !important
     }
   }
 
