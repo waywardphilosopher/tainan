@@ -1,52 +1,21 @@
-# Hilton – Super Simple Portfolio Theme for HUGO
+# Wind&Bones — A Website from Wind&Bones CIC
 
-The Hilton theme is designed to give you the opportunity to present your works in the most creative and dignified way possible. The theme is very easy to customize and has such necessary sections as Works, Testimonials, Blog, and also has a light and dark mode for easy reading. The theme design is ideal for creative people who appreciate simplicity and functionality.
-
-* * *
-
-### Demo
-
-Check the theme in action [Live Demo](https://hilton-hugo.netlify.app/) |
-[Anvod Studio](https://themeforest.net/user/anvodstudio)
+This is the online repository for the website of Wind&Bones CIC, a social enterprise based in Scotland dedicated to writing and social change.
 
 * * *
 
-### Theme features
+### About us
 
-- Dark and Light Mode
-- No jQuery, Only Vanilla JS
-- 100% Responsive Design
-- Clean Code
-- Optimized for Mobile Devices
-- Section Blog
-- Section Works
-- Section Testimonials
-- Super Fast performance ⚡⚡⚡
-- Social Sharing Buttons
-- Scroll to Top Button
-- Syntax Highlighting
-- Compatible with Modern Browsers
-- Medium Style Image Zoom
-- Image Lazy Loading
-- Image Gallery
-- Custom Logo Support
-- Supports Contact Form (Formspree)
-- Supports MailChimp Newsletter
-- Supports Disqus Comments
-- Supports Google Analytics
-- Ionicons Icons
-- Free Google Fonts
+We are run by writers Dr Hannah Stevens and Dr Will Buckingham.
 
 * * *
 
-### Deployment
+### About the site
 
-To run the theme locally, navigate to the theme directory and run `hugo` to start building websites, then run `hugo server` or `hugo server --disableFastRender` to start the HUGO server.
-
-I would recommend checking the [Deployment Methods](https://gohugo.io/hosting-and-deployment/) page on HUGO website.
+The site runs with HUGO, using a modified version of the Hilton theme from [AnvodStudio](https://themeforest.net/user/anvodstudio). We've added in search functionality and switched the MailChimp signup for a newsletter run using Amazon SES, Mailbluster and a nifty bit of JavaScript.
 
 * * *
 
-### Documentation
+### Visist the site
 
-Before using the Hilton theme, please read the attached documentation.
+There's nothing much to see here. Go to the site at [Windandbones.com](https://www.windandbones.com)
