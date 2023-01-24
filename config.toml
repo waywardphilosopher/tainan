@@ -131,7 +131,7 @@ paginate = 9
   [params.hero]
     enable = true
     hero__title = "Wind&Bones"
-    hero__description = "Writing and storytelling for social change. Based in Dundee, Scotland, we run projects across the globe. Run by writers Dr Hannah Stevens & Dr Will Buckingham."
+    hero__description = "We run projects that use writing and storytelling as catalysts for positive social change. Based in Dundee, Scotland, we work across the globe. Run by writers Dr Hannah Stevens & Dr Will Buckingham."
     hero__image = "/images/about/frontpage.jpg"
 
 
