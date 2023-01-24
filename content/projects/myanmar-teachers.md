@@ -24,4 +24,4 @@ The teachers with whom we worked are continuing to provide education in the diff
 ## Project Outcomes
 We ran three workshops overall, exploring storytelling in theory and practice, and its pedagogical uses.
 
-Because of the difficult security situation in contemporary Myanmar we are unable to provide details of our project partners for this project or any direct links.
+Because of the difficult security situation in contemporary Myanmar, we are unable to provide details of our project partners for this project or any direct links.

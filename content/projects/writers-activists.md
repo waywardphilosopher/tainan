@@ -11,7 +11,7 @@ image: '/images/projects/cafe/cafe3.jpg'
 - Project partners: Greenpeace, Bulgaria.
 
 ## Overview
-In 2020, we set up a Writers' and Activists' café with Greenpeace, Bulgaria. The idea of the cafe was that we would gather every week in Greenpeace's wonderful community space in the heart of Sofia, and we would explore how writing can be used to bring about positive social change.
+In 2020, we set up a Writers' and Activists' café with Greenpeace, Bulgaria. The idea of the café was that we would gather every week in Greenpeace's wonderful community space in the heart of Sofia, and we would explore how writing can be used to bring about positive social change.
 
 The café was free to access, run on a donation-only basis. Each week, we provided a short presentation and some prompts and reflections to get people writing, and then we set everyone loose to write in whatever language they chose.
 

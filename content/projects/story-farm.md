@@ -24,7 +24,7 @@ The festival was a festival of food done right. And we were farming stories abou
 </div>
 
 ## Project Outcomes
-Over the course of the weekend, we gathered together a huge pile of stories to share with the public, and with GIY.
+Over the course of the weekend, we gathered a huge pile of stories to share with the public, and with GIY.
 
 <div class="gallery-box">
   <div class="gallery">
