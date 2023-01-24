@@ -15,7 +15,7 @@ In 2023, we were invited to the Wigtown book festival to run a public drop-in wr
 
 Then put their stories in unmarked envelopes.
 
-When more passers-by came to share their stories, we gave them a story from one of the sealed envelopes to take away. In this way, we contributed to a chance, serendipitous exhange of stories between strangers.
+When more passers-by came to share their stories, we gave them a story from one of the sealed envelopes to take away. In this way, we contributed to a chance, serendipitous exchange of stories between strangers.
 
 The project was inspired by Will's book *Hello, Stranger: Stories of Connection in a Divided World* (Granta 2021/2).
 
