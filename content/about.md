@@ -21,6 +21,17 @@ Will has a PhD in philosophy. He is the author of 13 books with publishers inclu
 
 ![Will and Hannah](/images/about/mags.jpg)
 
+## What we offer
+
+We work with organisations and individuals.
+
+### For organisations
+We run projects exploring how writing and storytelling can deepen communication, build community and bring about positive social change. Our project partners have included Greenpeace, British Embassy Sofia, Unboxed UK, the Goethe Institut, Mote Oo Education (Myanmar), GIY Ireland Ltd, the Premise Insitute — and many more.
+
+### For individuals
+We work with individuals to mentor them through their own writing projects. Are you a short story writer, struggling with a first collection? Are you an academic trying to make the difficult leap from academic to trade writing? Or are you wrestling a novel into shape? If the answer to any of these questions is "yes," we can help you!
+
+You can find out more on our [mentoring site](https://mentor.windandbones.com).
 
 ## About our name
 
@@ -29,6 +40,8 @@ We take our name from the Medieval Chinese writer, Liu Xie, and his book *The He
 > So cultivate the strength of the wind, and make the bone robust.
 >
 > *Liu Xie || The Heart of Literature, the Carving of Dragons (5th - 6th Century)*
+
+Liu argues that good writing needs a balance of wind (*feng* 風) — vitality, life and spiritedness — and bone (*gu* 骨) — organisation and structure. We see this balancing of wind and bones as good advice not just for writing, but for bringing about social change, and for life in general.
 
 <div class="gallery-box">
   <div class="gallery">
