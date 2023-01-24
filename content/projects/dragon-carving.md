@@ -25,6 +25,6 @@ Liu's book is a masterpiece of literary theory; but it is also more than this. I
 </div>
 
 ## Project Outcomes
-Six writers are taking part in the project. Each writer will be commissioned to write a response to a part of the *Wenxin dialong*, and these responses will be cross-translated between English and Chinese.
+Six writers are taking part in the project. Each writer will be commissioned to write a response to a part of the *Wenxin diaolong*, and these responses will be cross-translated between English and Chinese.
 
 This project is still in progress. Links to follow!
