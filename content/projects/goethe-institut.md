@@ -26,7 +26,7 @@ During the workshop, participants shared stories in multiple languages: English,
 ## Project Outcomes
 What we loved about the stories the participants told was how varied they were, how in a few brief hours we mapped out the vastness of human experience: we had funny stories and sad stories, everyday stories and stories about extraordinary events.
 
-Here’s are three extracts. All these stories were first written in Arabic. They were translated into Bulgarian, and we’ve made versions in English to give a flavour of the workshop.
+Here are three extracts. All these stories were first written in Arabic. They were translated into Bulgarian, and we’ve made versions in English to give a flavour of the workshop.
 
 > One day it rained heavily and hard. I usually like to look out the window when it’s bathed in the rain, but it was raining so hard, I couldn’t see anything. The rain drops ran down the glass, flowing along with the dust, and I decided the windows needed washing. I looked all over the house for the towel I use to clean the windows, but I couldn’t find it….
 
