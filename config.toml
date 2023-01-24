@@ -105,27 +105,17 @@ paginate = 9
   [[params.social]]
     icon = "ion-logo-twitter"
     name = "Twitter"
-    link = "https://twitter.com"
+    link = "https://twitter.com/windandbones"
 
   [[params.social]]
     icon = "ion-logo-facebook"
     name = "Facebook"
-    link = "https://facebook.com"
+    link = "https://www.facebook.com/windandboneswriting"
 
   [[params.social]]
     icon = "ion-logo-instagram"
     name = "Instagram"
-    link = "https://instagram.com"
-
-  [[params.social]]
-    icon = "ion-logo-pinterest"
-    name = "Pinterest"
-    link = "https://pinterest.com"
-
-  [[params.social]]
-    icon = "ion-logo-github"
-    name = "Github"
-    link = "https://github.com"
+    link = "https://www.instagram.com/windandboneswriting/
 
   # Example of adding a new link to the footer:
   # [[params.social]]
