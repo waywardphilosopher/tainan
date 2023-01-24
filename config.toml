@@ -84,7 +84,7 @@ paginate = 9
       
       [[menu.footer]]
       identifier = "elements"
-      name = "privacy"
+      name = "Privacy"
       url = "/privacy/"
       weight = 6
       
