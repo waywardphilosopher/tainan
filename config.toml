@@ -115,7 +115,7 @@ paginate = 9
   [[params.social]]
     icon = "ion-logo-instagram"
     name = "Instagram"
-    link = "https://www.instagram.com/windandboneswriting/
+    link = "https://www.instagram.com/windandboneswriting/"
 
   # Example of adding a new link to the footer:
   # [[params.social]]
@@ -213,7 +213,13 @@ paginate = 9
     link = "https://twitter.com/"
     content = "I cannot recommend Wind&Bones more highly. Aside from their proficiency in bending words to their will and whim, they are also delightful people to work with: warm, witty, caring, with dollops of high-level professionalism. You will not regret time spent working with Hannah and Will."
     
-
+ [[params.testimonial_item]]
+    name = "Dr. Ariane Karbe"
+    image = "images/client/ariane.png"
+    designation = "Museologist and writer"
+    link = "https://twitter.com/"
+    content = "Publishing your first book can be scary. Wind&Bones helped me with my book proposal: they were friendly, knowledgeable and to the point. What can I say? At this moment, I'm waiting for the first printed copies."
+  
   #-------------------------------
   # Blog Section
   [params.blog]
