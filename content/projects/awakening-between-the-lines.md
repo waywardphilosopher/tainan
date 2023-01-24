@@ -25,7 +25,7 @@ The stories were edited into final form and cross-translated between Bulgarian a
 
 ## Project Outcomes
 ### Exhibition at the National Gallery of Bulgaria Kvadrat 500
-In the summer of 2022, the National Gallery of Bulgaria held a two-month long exhibition called *Awakening Between the Lines / Пробуждане между редовете*, exhibiting the stories in Bulgarian and English and the commissioned artworks.
+In the summer of 2022, the National Gallery of Bulgaria held a two-month-long exhibition called *Awakening Between the Lines / Пробуждане между редовете*, exhibiting the stories in Bulgarian and English and the commissioned artworks.
 
 ### Story cards
 The stories have now been published as a boxed set of cards. On the front of the cards are the commissioned illustrations, and on the back of the cards are the stories in both languages. The cards can be used for training and educational purposes.
