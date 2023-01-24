@@ -13,7 +13,7 @@ image: '/images/projects/dandelion/dandelion6.jpg'
 ## Overview
 In the summer of 2020, we worked with the Dandelion Festival to delivery three days of workshops with the general public in Kelvingrove Park, Glasgow.
 
-Dandelion was a festival dedicated to rethinking our relationships with food and growing. We set up in a potting shed in the park, where we spent three intensive days working with members of the public, inviting them to share micro-stories about the food they loved, the food they hated, the food that reminded them of home, the food that they grew, or that they they wanted to grow.
+Dandelion was a festival dedicated to rethinking our relationships with food and growing. We set up in a potting shed in the park, where we spent three intensive days working with members of the public. We invited passers-by to share micro-stories about the food they loved, the food they hated, the food that reminded them of home, the food that they grew, or that they wanted to grow.
 
 <div class="gallery-box">
   <div class="gallery">
