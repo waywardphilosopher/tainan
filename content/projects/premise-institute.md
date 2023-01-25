@@ -13,11 +13,11 @@ image: '/images/projects/premise/premisereading.jpg'
 
 ## Overview
 
-In the spring of 2023, we're partnering with the Premise Institute, based over in the promised land of literature that is Portland, Oregon. Premise is a community "where the curious come to connect, learn, and grapple with life’s enduring questions." Premise is neither a book club nor a college-sytle course. Instead, it is a chance to explore wide-ranging questions about human life, based on the shared experience of reading.
+In the spring of 2023, we're partnering with the Premise Institute, based over in the promised land of literature that is Portland, Oregon. Premise is a community "where the curious come to connect, learn, and grapple with life’s enduring questions." Premise is neither a book club nor a college-style course. Instead, it is a chance to explore wide-ranging questions about human life, based on the shared experience of reading.
 
 We're starting off our collaboration with a session on *Hello, Stranger: Stories of Connection in a Divided World,* by Wind&Bones's very own Will Buckingham. 
 
-Will is on the Premise advisory board, and we-re excited to be working together.
+Will is on the Premise advisory board, and we're excited to be working together.
 
 <div class="gallery-box">
   <div class="gallery">
