@@ -1,7 +1,7 @@
 ---
 title: Dragon-carving for Writers
 date: 2023-02-02 08:01:35 +0300
-subtitle: A British-Council funded project exploring cross-cultural creativity, China
+subtitle: A British Council-funded project exploring cross-cultural creativity, China
 draft: false
 image: '/images/projects/dragoncarving/dragon.jpg'
 ---
