@@ -1,6 +1,6 @@
 ---
 title: Creative Writing at Volvi
-date: 2022-01-02 08:01:35 +0300
+date: 2019-08-02 08:01:35 +0300
 subtitle: Working with displaced people in Volvi Refugee Camp, Greece
 image: '/images/projects/volvi/thessaloniki.jpg'
 ---

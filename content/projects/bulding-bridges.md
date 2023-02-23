@@ -1,6 +1,6 @@
 ---
 title: Building Bridges with Paung Ku
-date: 2022-01-07 08:01:35 +0300
+date: 2019-11-01 08:01:35 +0300
 subtitle: Storytelling for Civil Society Organisations, Myanmar
 image: 'images/projects/paungku/myanmar-street.jpg'
 ---

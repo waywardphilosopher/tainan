@@ -1,6 +1,6 @@
 ---
 title: Manifesto - A workshop and talk
-date: 2022-01-10 08:01:35 +0300
+date: 2019-01-11 08:01:35 +0300
 subtitle: Manifesto writing for cultural activists, Bulgaria
 image: '/images/projects/empatheast/wakeup.jpg'
 ---

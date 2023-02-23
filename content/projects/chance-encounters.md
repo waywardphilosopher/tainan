@@ -6,7 +6,7 @@ image: '/images/projects/encounter/poster.jpg'
 ---
 
 ## Info 
-- Project date: Summer 2023
+- Project date: Summer 2022
 - Project location: Wigtown, Scotland
 - Project partners: Wigtown Book Festival
 

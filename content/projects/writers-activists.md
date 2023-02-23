@@ -1,6 +1,6 @@
 ---
 title: Greenpeace Writers' & Activists' Cafe
-date: 2022-01-05 08:01:35 +0300
+date: 2020-03-05 08:01:35 +0300
 subtitle: Writing for social change in partnership with Greenpeace, Bulgaria
 image: '/images/projects/cafe/cafe3.jpg'
 ---

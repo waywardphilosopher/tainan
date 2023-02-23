@@ -1,6 +1,6 @@
 ---
 title: Waterford Harvest Festival Story Farm
-date: 2022-08-06 08:01:35 +0300
+date: 2022-09-01 08:01:35 +0300
 subtitle: Harvesting stories about food and growing in Waterford, Ireland
 image: '/images/projects/waterford/posters-waterford.jpg'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ethical Leadership with Mote Oo
-date: 2022-01-10 08:01:35 +0300
+date: 2020-01-10 08:01:35 +0300
 subtitle: Developing curricula on ethical leadership, Myanmar
 image: '/images/projects/moteoo/lighthouse.jpg'
 ---
