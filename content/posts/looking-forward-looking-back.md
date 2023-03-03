@@ -24,7 +24,7 @@ Shortly after arriving in Scotland, we got involved with the brilliant folks at 
 
 Not long after this, we were over in Waterford, Ireland, with the lovely GIY (Ireland) crew, for their Waterford Harvest Festival, a three-day celebration of “food done right.” Not only did we eat some exceptional food, but we also spent time harvesting more stories from the people of Waterford. 
 
-On our final day in Waterford, we also had the enormous pleasure of co-running a workshop with Ashoka Fellow Dr Sarah Prosser, developing a manifesto for food futures in the Waterford Bioregion. 
+On our final day in Waterford, we also had the enormous pleasure of co-running a workshop with Dr Sarah Prosser, developing a manifesto for food futures in the Waterford Bioregion. 
 
 ### Myanmar Projects
 
