@@ -260,11 +260,6 @@ paginate = 9
 
 
   #-------------------------------
-  # Comment Section (Disqus)
-  [params.disqus]
-    enable = false
-    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
-
 
 [markup]
   [markup.goldmark]
