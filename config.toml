@@ -160,7 +160,7 @@ paginate = 9
   # Projects Settings
   [params.projects]
     enable = true
-    projects__title= "Our Recent Projects"
+    projects__title= "Our Projects"
     projects__description= "We work around the globe on projects exploring the meeting-places between writing, creativity and social change."
 
 
