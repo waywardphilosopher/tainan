@@ -16,7 +16,7 @@ We take our name from the Medieval Chinese writer, Liu Xie, and his book the *We
 >
 > *Liu Xie || The Heart of Literature, the Carving of Dragons*
 
-Liu argues that good writing needs a balance of wind (*feng* 風) — vitality, life and spiritedness — and bone (*gu* 骨) — organisation and structure. We take this as good advice not just for writing, but also for social change, and for life.
+For Liu, writing needs a balance of wind (*feng* 風) — vitality, life and spiritedness — and bone (*gu* 骨) — organisation and structure. We take this as good advice not just for writing, but also for social change, and for life.
 
 ## Who we are
 
