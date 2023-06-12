@@ -12,9 +12,9 @@ We work with organisations and individuals on projects that bring together writi
 We take our name from the Medieval Chinese writer, Liu Xie, and his book the *Wenxin diaolong* (文心雕龍), or *The Heart of Literature, the Carving of Dragons*.
 
 > So cultivate the strength of the wind, and make the bone robust.
+> 
 > 蔚彼風力，嚴此骨鯁。
->
-> *Liu Xie || The Heart of Literature, the Carving of Dragons*
+
 
 For Liu, writing needs a balance of wind (*feng* 風) — vitality, life and spiritedness — and bone (*gu* 骨) — organisation and structure. We take this as good advice not just for writing, but also for social change, and for life.
 
