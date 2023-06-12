@@ -1,6 +1,6 @@
 ---
 title: In Their Absence, Now in Bulgarian
-description: We're delighted to announce that Hannah's short story collection is now available in Bulgarian langauge.
+description: We're delighted to announce that Hannah's short story collection is now available in Bulgarian.
 date: 2023-06-03
 preview: ""
 draft: false
