@@ -4,7 +4,7 @@ description: We're delighted to announce that Hannah's short story collection is
 date: 2023-06-03
 preview: ""
 draft: false
-image: "/images/news/kogato.jpg"
+image: /images/news/kogato.jpg
 tags:
   - books
   - translation
