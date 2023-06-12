@@ -3,21 +3,17 @@ title: In Their Absence, Now in Bulgarian
 description: We're delighted to announce that Hannah's short story collection is now available in Bulgarian langauge.
 date: 2023-06-03
 preview: ""
-draft: true
-image: "/images/news/dragon2.jpg"
+draft: false
+image: "/images/news/kogato.jpg"
 tags:
-  - China
-  - writing
-  - creativity
+  - books
+  - translation
+  - Bulgaria
 categories:
   - News
 ---
-Our Dragon-Carving for Writers Project is well underway. In this project, we are exploring the contemporary uses of Liu Xie's medieval Chinese classic, the _Wenxin diaolong_ (文心雕龍), or _The Literary Mind and the Carving of Dragons_. 
+Wind&Bones were based in Bulgaria for over two years, and so we are particularly delighted to see Hannah Stevens's brilliant short story collection, *In Their Absence* being released in a Bulgarian language edition, translated by Ana Pipeva.
 
-Last month, we held our workshop with our brilliant writers — Dr Sipei Lu 陆思培, Ningli Deng 邓宁立, Zhenhao Shi 史镇豪, Dr Hannah Stevens, Yuhang Zhang 张煜航, and Will Buckingham. We talked about three chapters from Liu's book, exploring the text's philosophical underpinnings, insights into the craft of writing, and discussion of the writer's life.
+The translation, Когато ги няма (*Kogato gi nyama*), is published by Altera, and has already attracted significant media attention.  
 
-After the workshop, all participating writers were commissioned to write new works in response to Liu's text, in either English or Chinese.
-
-The final texts are now in, so we're getting down to work on the translations, working with translators in both the UK and China. We have a brilliant range of work: from poetry to short fiction, and from nonfiction to hybrid works. All texts will be translated from Chinese to English, and from English to Chinese, and then the resulting works in both languages will be published on the [project website](https://wxdl.windandbones.com).
-
-We'll post again when the work is published online, sometime in the middle of the summer.
+If you speak Bulgarian, have a listen in here on [Bulgarian National Radio](https://bnr.bg/post/101834399). And if you want to buy the book, [this is the link](https://m.helikon.bg/240094-%D0%9A%D0%BE%D0%B3%D0%B0%D1%82%D0%BE-%D0%B3%D0%B8-%D0%BD%D1%8F%D0%BC%D0%B0.html)
