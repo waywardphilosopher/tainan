@@ -22,13 +22,13 @@ For Liu, writing needs a balance of wind (*feng* 風) — vitality, life and spi
 
 We are Dr Hannah Stevens and Dr Will Buckingham.
 
-Hannah has a PhD in creative writing. She is an award winning internationally published writer of fiction and non-fiction. Her latest short story collection *On the Bodies of Strangers* was shortlisted for the W&A Working Class Writers' Prize 2022.  
+Hannah has a PhD in creative writing. She is an award-winning writer of fiction and non-fiction and has been published internationally. Her latest short story collection *On the Bodies of Strangers* was shortlisted for the W&A Working Class Writers' Prize 2022.  
 
 Her book *In their Absence* (Roman Books 2021) is a collection of short stories about missing people, and those they leave behind. The collection was based on Hannah’s PhD research at the University of Leicester. The stories testify to the complexity and diversity of the reasons that lead to people going missing. *In their Absence* has been translated into Bulgarian.
 
 Hannah has led projects for organisations including the BBC, the British Embassy, and Greenpeace.
 
-Will has a PhD in philosophy. His most recent book is *Hello, Stranger: Stories of Connection in a Divided World* (Granta 2021/2). *Hello, Stranger* was a BBC Radio4 Book of the Week. Will is the author of thirteen books, and has been translated into multiple languages. He was also content advisor and contributor to Dorling Kindersley's globally-bestselling *The Philosophy Book.*
+Will has a PhD in philosophy and an MA in anthropology. His most recent book is *Hello, Stranger: Stories of Connection in a Divided World* (Granta 2021/2). *Hello, Stranger* was a BBC Radio4 Book of the Week. Will is the author of thirteen books, and has been translated into multiple languages, including French, Korean, Bulgarian, Finnish, German, Chinese and Persian. He was also content advisor and contributor to Dorling Kindersley's globally-bestselling *The Philosophy Book.*
 
 Will has been associate professor in Writing & Creativity at De Montfort University, visiting associate professor in the College of Literature and Journalism at Sichuan University, and is currently on the faculty of Parami University, Myanmar. He has run literature projects internationally.
 
