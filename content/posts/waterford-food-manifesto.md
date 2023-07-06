@@ -6,6 +6,8 @@ tags:
   - Workshops
   - Food
 image: /images/news/food.jpg
+aliases:
+	- /posts/waterfood-food-manifesto/
 author: Wind&Bones
 ---
 Last summer, we worked with GIY (Ireland), Ashoka, and the wonderful Dr. Sarah Prosser on a project to develop a manifesto for future food in the Waterford Bioregion. We co-ran a workshop with local farmers, community members and consumers, leading to the drafting of a manifesto for rethinking the centrality of food in all of our lives.
