@@ -1,14 +1,13 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://www.windandbones.com/"
+languageCode = "en-GB"
 title = "Wind&Bones"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 9
 
 [params]
   logo = "" # You can add own logo. For example "/images/logo.png".
-  description = "Writing, Creativity and Social Change"
+  description = "Writing, Creativity, and Social Change"
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 [taxonomies]

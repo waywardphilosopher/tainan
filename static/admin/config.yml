@@ -3,7 +3,6 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: static/images/news
 public_folder: /images/news
-publish_mode: editorial_workflow
 collections:
   - name: 'news'
     label: 'News'
