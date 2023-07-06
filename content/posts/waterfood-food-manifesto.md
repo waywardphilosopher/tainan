@@ -2,6 +2,9 @@
 title: Waterfood Food Manifesto
 date: 2023-07-06T12:06:35.608Z
 description: The Food Manifesto from Waterford Bioregion is now on YouTube.
+tags:
+  - Workshops
+  - Food
 image: /images/news/food.jpg
 author: Wind&Bones
 ---
