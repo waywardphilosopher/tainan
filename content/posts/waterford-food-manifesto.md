@@ -13,8 +13,13 @@ Last summer, we worked with GIY (Ireland), Ashoka, and the wonderful Dr. Sarah P
 
 You can read more about the project here: [Waterford Manifesto](https://www.windandbones.com/projects/waterford-manifesto/). 
 
-We're delighted that the manifesto is now available on YouTube, read by Ray McGrath, who took part in the workshop.
+We're delighted that the manifesto is now available on YouTube, read by Ray McGrath, who took part in the workshop. Here is an extract:
 
-Watch the video here:
+> We want a world where everything is connected, from rocks to the human heart.
+> We want our children and grandchildren to know the taste of wild salmon.
+> We want to be good guardians of the soil and of our traditions.
+> We want to become good ancestors.
+
+Watch the whole video here:
 
 {{< youtube J1C22mo5ta4 >}}
