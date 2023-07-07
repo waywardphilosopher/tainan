@@ -15,9 +15,9 @@ You can read more about the project here: [Waterford Manifesto](https://www.wind
 
 We're delighted that the manifesto is now available on YouTube, read by Ray McGrath, who took part in the workshop. Here is an extract:
 
-> We want a world where everything is connected, from rocks to the human heart.
-> We want our children and grandchildren to know the taste of wild salmon.
-> We want to be good guardians of the soil and of our traditions.
+> We want a world where everything is connected, from rocks to the human heart. \
+> We want our children and grandchildren to know the taste of wild salmon. \
+> We want to be good guardians of the soil and of our traditions. \
 > We want to become good ancestors.
 
 Watch the whole video here:
