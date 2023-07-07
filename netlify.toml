@@ -1,13 +1,10 @@
 [build]
-  context = "production"
+  command = "npm install && hugo --minify"
   publish = "public"
-  command = "hugo"
   functions = "netlify/functions"
-  
-[context.production.environment]
-  HUGO_ENV = "production"
-  HUGO_BASEURL = "https://www.windandbones.com"
 
+[functions]
+  node_bundler = "esbuild"
 
 [build.environment]
   HUGO_VERSION = "0.115.1"
