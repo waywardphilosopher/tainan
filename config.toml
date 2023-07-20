@@ -174,49 +174,54 @@ paginate = 9
     name = "Katie Julian"
     image = "images/client/kt.jpg"
     designation = "Curriculum Manager at Mote Oo Education, Myanmar"
-    link = "https://twitter.com/"
+    link = "https://www.moteoo.org/en"
     content = "I cannot recommend Wind&Bones more highly. Aside from their proficiency in bending words to their will and whim, they are also delightful people to work with: warm, witty, caring, with dollops of high-level professionalism. You will not regret time spent working with Hannah and Will."
+
+[[params.testimonial_item]]
+    name = "Olia Mineva"
+    image = "images/client/olia.png"
+    designation = "CEO at Emprove Foundation"
+    link = "https://emproveproject.eu/"
+    content = "Hannah and Will did not just teach us how to write, they actually made us realise about a secret power we’ve been carrying - the power to change lives and the world we live in through our STORIES. With their amazing dedication, guidance and mentorship we developed a large exhibition at our National Gallery, a powerful deck of cards, a series of public readings, workshops and a violence prevention tour."
 
   [[params.testimonial_item]]
     name = "Konstantinos Achile"
     image = "images/client/kostas.jpg"
+    link = "https://amna.org/"
     designation = "Youth Development Lead at Refugee Trauma Initiative"
-    link = "https://facebook.com/"
     content = "We worked together at Refugee Trauma Initiative, running a creative writing workshop in Thessaloniki, Greece with young displaced people. They were amazing, extremely professional and most importantly they knew what they were doing. I highly recommend them!"
 
   [[params.testimonial_item]]
     name = "Professor Carla Nappi"
     image = "images/client/carla.jpg"
     designation = "Andrew W. Mellon Chair, Department of History, Pittsburgh University."
-    link = "https://facebook.com/"
+    link = "https://carlanappi.com/"
     content = "Huge thanks to the Wind&Bones team for helping me through a stuck patch in a fiction writing project.  Will Buckingham and Hannah Stevens are fabulous writing mentors (and just generally awesome and brilliant humans), doing really cool things. Check out their work, y’all."
   
   [[params.testimonial_item]]
     name = "Amjad Mestari"
     image = "images/client/amjad.jpg"
     designation = "Founder, Garage Cultural Centre, Jordan"
-    link = "https://twitter.com/"
-    content = "Hannah and Will created an atmosphere which made me—and I think everyone—feel safe and accepted. In the class, I felt appreciated and valued, and overall it was one of the most positive workshops I have ever attended. Also, Hannah and Will are some of the nicest people I’ve ever met – always giving a positive energy."
+    content = "Hannah and Will created an atmosphere which made me — and I think everyone — feel safe and accepted. In the class, I felt appreciated and valued, and overall it was one of the most positive workshops I have ever attended. Also, Hannah and Will are some of the nicest people I’ve ever met – always giving a positive energy."
 
   [[params.testimonial_item]]
     name = "Grace Susetyo"
     image = "images/client/grace.jpg"
     designation = "Writer and journalist, Indonesia"
-    link = "https://facebook.com/"
     content = "The Wind&Bones mini-course I joined was both a thought-provoking lesson and an inviting space to collaborate with fellow participants. Wind& Bones show writers how to write more ethically, and find that sweet spot between addressing hard issues and telling inspiring stories about humanity."
 
   [[params.testimonial_item]]
     name = "Dr. Angela Stienne"
     image = "images/client/angela.jpg"
     designation = "Egyptologist and author. Creator of Mummy Stories & The Lyme Museum."
-    link = "https://twitter.com/"
+    link = "https://www.angelastienne.com//"
     content = "I’m delighted to have signed up on the Wind&Bones creative writing mentoring programme. It is absolutely lovely. I especially love how well-paced it is, especially in these circumstances. I cannot recommend Will Buckingham & Hannah Stevens enough."
     
  [[params.testimonial_item]]
     name = "Dr. Ariane Karbe"
     image = "images/client/ariane.png"
     designation = "Museologist and writer"
-    link = "https://twitter.com/"
+    link = "http://exhibition-telling.com/"
     content = "Publishing your first book can be scary. Wind&Bones helped me with my book proposal: they were friendly, knowledgeable and to the point. What can I say? At this moment, I'm waiting for the first printed copies."
   
   #-------------------------------
