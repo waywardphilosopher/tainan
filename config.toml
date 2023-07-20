@@ -182,7 +182,7 @@ paginate = 9
     image = "images/client/olia.png"
     designation = "CEO at Emprove Foundation"
     link = "https://emproveproject.eu/"
-    content = "Hannah and Will did not just teach us how to write, they actually made us realise about a secret power we’ve been carrying - the power to change lives and the world we live in through our STORIES. With their amazing dedication, guidance and mentorship we developed a large exhibition at our National Gallery, a powerful deck of cards, a series of public readings, workshops and a violence prevention tour."
+    content = "Hannah and Will did not just teach us how to write, they actually made us realise about a secret power we’ve been carrying - the power to change lives and the world we live in through our STORIES. With their amazing dedication, guidance and mentorship we developed a large exhibition at our National Gallery, a powerful deck of story-cards, a series of public readings, workshops and a violence prevention tour."
 
   [[params.testimonial_item]]
     name = "Konstantinos Achile"
