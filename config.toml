@@ -76,7 +76,7 @@ paginate = 9
       weight = 4
 
       [[menu.footer]]
-      identifier = "about"
+      identifier = "search"
       name = "Search"
       url = "/search/"
       weight = 4
