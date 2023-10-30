@@ -76,25 +76,26 @@ paginate = 9
       weight = 4
 
       [[menu.footer]]
-      identifier = "elements"
+      identifier = "about"
       name = "Search"
       url = "/search/"
-      weight = 5
-      
-      [[menu.footer]]
-      identifier = "elements"
-      name = "Privacy"
-      url = "/privacy/"
-      weight = 6
+      weight = 4
+
 
       [[menu.footer]]
-      identifier = "elements"
+      identifier = "privacy"
+      name = "Privacy"
+      url = "/privacy/"
+      weight = 5
+
+      [[menu.footer]]
+      identifier = "equality"
       name = "Equality, Diversity & Inclusion"
       url = "/equalities/"
       weight = 7
 
       [[menu.footer]]
-      identifier = "elements"
+      identifier = "safeguarding"
       name = "Safeguarding"
       url = "/safeguarding/"
       weight = 8
