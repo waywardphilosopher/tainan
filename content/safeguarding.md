@@ -56,7 +56,7 @@ Staff and volunteers should:
 
 - Operate within Wind&Bones's policies and procedures including the child protection guidelines
 - Treat everyone fairly, with respect, dignity and as an individual
-• Engage with children, young people, and other members of vulnerable groups in a meaningful way, valuing their contribution
+- Engage with children, young people, and other members of vulnerable groups in a meaningful way, valuing their contribution
 - Ensure that contact with children and young people is appropriate and relevant to (insert name of organisation)’s work
 - Ensure that language used is appropriate and not offensive or discriminatory
 - Be aware of any additional vulnerabilities that some children, young people or communities may face
@@ -73,8 +73,7 @@ Staff and volunteers should not:
 - Promise confidentiality to a child or young person
 - Develop inappropriate relationships with children, young people or their families, such as contact outside of work
 - Provide personal contact details or engage on online activity outside of Wind&Bones's policy
-- Make offensive or sexually suggestive remarks or gestures directly
-to, or in front of, children and young people
+- Make offensive or sexually suggestive remarks or gestures directly to, or in front of, children and young people
 - Conduct a sexual relationship with a young person
 - Act in a way that could be perceived as threatening or intrusive
 - Allow bullying to take place without challenge
