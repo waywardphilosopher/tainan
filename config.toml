@@ -86,12 +86,25 @@ paginate = 9
       name = "Privacy"
       url = "/privacy/"
       weight = 6
-      
+
+      [[menu.footer]]
+      identifier = "elements"
+      name = "Equality, Diversity & Inclusion"
+      url = "/equalities/"
+      weight = 7
+
+      [[menu.footer]]
+      identifier = "elements"
+      name = "Safeguarding"
+      url = "/safeguarding/"
+      weight = 8
+
+
       [[menu.footer]]
       identifier = "contact"
       name = "Contact"
       url = "/contact/"
-      weight = 7
+      weight = 9
 
   #-------------------------------
   # Author Settings
