@@ -13,7 +13,7 @@ title = "Equality, Diversity and Inclusion"
 ## Equality, Diversity and Inclusion at Wind&Bones
 Wind&Bones CIC is committed to encouraging equality, diversity and inclusion and eliminating unlawful discrimination among our team, those whom we employ, and those with whom we work.
 
-In providing services, the organisation is also committed against unlawful discrimination of clients or the public.
+In providing services, the organisation is also committed to working against unlawful discrimination of clients or the public.
 
 Our policy’s purpose is to:
 
