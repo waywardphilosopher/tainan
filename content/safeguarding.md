@@ -14,7 +14,7 @@ title = "Safeguarding"
 This safeguarding policy applies to all staff, including volunteers and paid freelancers, or anyone working in any capacity on behalf of Wind&Bones CIC. 
 
 At Wind&Bones we work with a wide variety of groups, including children, young people, and other vulnerable groups. We believe that
-children, young people and other vulnerable groups should not experience abuse of any kind. We have a responsibility to promote and safeguard the welfare of all those with whom we work, and we are committed to practicing in a way that protects them form harm. 
+children, young people and other vulnerable groups should not experience abuse of any kind. We have a responsibility to promote and safeguard the welfare of all those with whom we work, and we are committed to practicing in a way that protects them from harm. 
 
 We fully recognise our duty of care for those with whom we work, in line with the appropriate legislative frameworks. These include, but are not limited to: the United Nations Convention on the Rights
 of the Child (UNCRC); the Children and Young People (Scotland) Act (2014); the Protection of Vulnerable Groups (Scotland) Act (2007); the General Data Protection Regulation (GDPR) (2018); the Equality Act (2010); and Getting it right for every child (GIRFEC).  
