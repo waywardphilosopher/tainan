@@ -11,7 +11,7 @@ title = "Safeguarding"
 
 
 ## Safeguarding at Wind&Bones
-This safeguardin policy applies to all staff, including volunteers and paid freelancers, or anyone working in any capacity on behalf of Wind&Bones CIC. 
+This safeguarding policy applies to all staff, including volunteers and paid freelancers, or anyone working in any capacity on behalf of Wind&Bones CIC. 
 
 At Wind&Bones we work with a wide variety of groups, including children, young people, and other vulnerable groups. We believe that
 children, young people and other vulnerable groups should not experience abuse of any kind. We have a responsibility to promote and safeguard the welfare of all those with whom we work, and we are committed to practicing in a way that protects them form harm. 
