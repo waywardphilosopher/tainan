@@ -9,7 +9,7 @@ tags:
 image: /images/news/taitung.jpeg
 author: Wind&Bones
 ---
-Earlier this week, Wind&Bones were in the wonderfully laid-back city of Taitung, where we invited to give a talk at [國立臺東大學 National Taitung University](https://www.nttu.edu.tw) on social entrepreneurship. It was also the first time we have talked publicly about our work in Chinese, which was very exciting (and not a little nerve-wracking).
+Earlier this week, Wind&Bones were in the wonderfully laid-back city of Taitung, where we were invited to give a talk at [國立臺東大學 National Taitung University](https://www.nttu.edu.tw) on social entrepreneurship. It was also the first time we have talked publicly about our work in Chinese, which was very exciting (and not a little nerve-wracking).
 
 During the lecture, we discussed our work at Wind&Bones, and how we use writing and storytelling to bring about positive social change. We talked about the origins of Wind&Bones, our [first-ever workshop](https://www.windandbones.com/projects/write-here/), [how we got our name,](https://www.windandbones.com/posts/why-wind-and-bones/) some of our [favourite projects](https://www.windandbones.com/projects/), and our upcoming residency at the Tainan Nanning Literature House (南寧文學·家). 
 
