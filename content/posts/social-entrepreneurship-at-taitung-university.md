@@ -1,6 +1,6 @@
 ---
 title: Social Entrepreneurship at Taitung University
-date: 2023-12-01T02:29:19.683Z
+date: 2023-11-30T02:58:24.200Z
 description: Talking about social change, and making a difference.
 tags:
   - entrepreneurship
