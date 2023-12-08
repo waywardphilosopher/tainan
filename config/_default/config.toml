@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/reporter/site/"
-title = "Reporter Hugo"
+baseURL = "/"
+title = "滋養台南 | Nourishing Tainan "
 theme = "reporter"
 # post pagination
 paginate = "7"

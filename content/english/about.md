@@ -18,6 +18,8 @@ On this website, you can read updates from our residency. You can also read stor
 
 Or you can [come and join us for afternoon tea at the Nanning Literature House](/afternoon-tea)!
 
+---
+
 你好，我們是Hannah Stevens博士和Will Buckingham博士。我們共同主持Wind&Bones CIC，這是一家致力於寫作和社會變革的社會企業。
 
 在2023年12月，我們是台南南寧文學·家的駐館作家。我們對食物、文化、敘事和哲學之間的聯繫深感興趣。在我們的駐地期間，我們將花十天探索台南豐富的飲食文化。
@@ -26,4 +28,5 @@ Or you can [come and join us for afternoon tea at the Nanning Literature House](
 
 或者您可以來[來南寧文學·家跟你們一起享用下午茶](/afternoon-tea)！
 
-<hr>
+
+---
