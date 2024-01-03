@@ -4,7 +4,7 @@ description = ""
 draft = false
 image = "/images/terms-conditions-1-1.jpg"
 slug = "privacy"
-summary = "Privacy and legal info for LookingForWisdom.com. "
+summary = "Privacy and legal info for Wind&Bones. "
 title = "Privacy"
 
 +++
