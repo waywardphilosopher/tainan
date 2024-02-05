@@ -6,7 +6,7 @@ image: '/images/projects/wansha/mayuan.jpg'
 ---
 
 ## Info 
-- Project date: 2025
+- Project date: 2024
 - Project location: Tainan, Taiwan
 - Project partners: Wansha Performing Arts Centre / 涴莎藝術展演中心
 
