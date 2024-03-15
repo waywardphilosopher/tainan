@@ -17,11 +17,6 @@ paginate = 9
 #-------------------------------
 # Main Menu
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
 
   [[menu.main]]
     identifier = "projects"
@@ -41,9 +36,15 @@ paginate = 9
       weight = 4
 
 [[menu.main]]
+      name = "Mentoring"
+      url = "/mentor/"
+      weight = 4
+
+[[menu.main]]
+      parent = "blog"
       name = "Search"
       url = "/search/"
-      weight = 5
+      weight = 1
 
 [[menu.main]]
       name = "Contact"

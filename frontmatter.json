@@ -65,32 +65,5 @@
     {
       "path": "[[workspace]]/content/projects"
     }
-  ],
-  "frontMatter.taxonomy.tags": [
-    "Myanmar",
-    "academia",
-    "articles",
-    "books",
-    "courses",
-    "creativity",
-    "education",
-    "festival",
-    "food",
-    "interview",
-    "lecture",
-    "liuxie",
-    "philosophy",
-    "podcast",
-    "project",
-    "scotland",
-    "social change",
-    "speech",
-    "wind&bones",
-    "women",
-    "workshop",
-    "writing"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "News"
   ]
 }
