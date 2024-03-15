@@ -36,20 +36,19 @@ paginate = 9
       weight = 4
 
 [[menu.main]]
-      name = "Mentoring"
+      name = "Mentor"
       url = "/mentor/"
-      weight = 4
+      weight = 5
 
 [[menu.main]]
-      parent = "blog"
       name = "Search"
       url = "/search/"
-      weight = 1
+      weight = 6
 
 [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 6
+      weight = 7
 
       # Footer Menu
       [[menu.footer]]
