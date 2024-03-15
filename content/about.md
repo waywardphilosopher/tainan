@@ -44,7 +44,7 @@ We run projects exploring how writing and storytelling can deepen communication,
 ### For individuals
 We work with individuals to mentor them through their own writing projects. Are you a short story writer, struggling with a first collection? Are you an academic trying to make the difficult leap from academic to trade writing? Or are you wrestling a novel into shape? If the answer to any of these questions is "yes," we can help you!
 
-You can find out more on our [mentoring site](https:/www.windandbones.com/mentor).
+You can find out more on our [mentoring page](/mentor).
 
 
 <div class="gallery-box">
