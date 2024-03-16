@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops on Wind&amp;Bones</title>
-    <link>http://localhost:1313/tags/workshops/</link>
+    <link>https://www.windandbones.com/tags/workshops/</link>
     <description>Recent content in Workshops on Wind&amp;Bones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Thu, 06 Jul 2023 12:06:35 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.windandbones.com/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Waterford Food Manifesto</title>
-      <link>http://localhost:1313/posts/waterford-food-manifesto/</link>
+      <link>https://www.windandbones.com/posts/waterford-food-manifesto/</link>
       <pubDate>Thu, 06 Jul 2023 12:06:35 +0000</pubDate>
-      <guid>http://localhost:1313/posts/waterford-food-manifesto/</guid>
+      <guid>https://www.windandbones.com/posts/waterford-food-manifesto/</guid>
       <description>Last summer, we worked with GIY (Ireland), Ashoka, and the wonderful Dr. Sarah Prosser on a project to develop a manifesto for future food in the Waterford Bioregion. We co-ran a workshop with local farmers, community members and consumers, leading to the drafting of a manifesto for rethinking the centrality of food in all of our lives.&#xA;You can read more about the project here: Waterford Manifesto.&#xA;We&amp;rsquo;re delighted that the manifesto is now available on YouTube, read by Ray McGrath, who took part in the workshop.</description>
     </item>
   </channel>
