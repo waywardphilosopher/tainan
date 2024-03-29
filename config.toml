@@ -111,7 +111,7 @@ paginate = 9
   # Author Settings
   [params.author]
     author__name = "Wind&Bones"
-    author__bio = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham. Registered as a social enterprise in Dundee, Scotland, we work across the globe, and we're currently based in Tainan, Taiwan."
+    author__bio = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham. Registered as a social enterprise in Dundee, Scotland, we work across the globe. We currently divide our time between Dundee and Tainan, Taiwan."
     author__avatar = "https://via.placeholder.com/500x500"
 
   # Social Links
