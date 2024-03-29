@@ -144,7 +144,7 @@ paginate = 9
   [params.hero]
     enable = true
     hero__title = "Wind&Bones"
-    hero__description = "We run projects that use writing and storytelling as catalysts for positive social change. Registered as a social enterprise in Dundee, Scotland, we work across the globe, and we're currently based in Tainan, Taiwan. Run by writers Dr Hannah Stevens & Dr Will Buckingham."
+    hero__description = "We run projects that use writing and storytelling as catalysts for positive social change. Registered as a social enterprise in Dundee, Scotland, we work across the globe. Run by writers Dr Hannah Stevens & Dr Will Buckingham, we currently divide our time between Dundee and Tainan, Taiwan.."
     hero__image = "/images/about/frontpage.jpg"
 
 
