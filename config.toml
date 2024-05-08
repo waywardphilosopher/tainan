@@ -130,7 +130,7 @@ paginate = 9
   #-------------------------------
   # Mentoring Settings
   [params.mentor]
-    enable = true
+    enable = false
     mentor__title= "Mentoring with Wind&Bones"
     mentor__description = "Wind&Bones offer mentoring for writers at all stages of their careers, from absolute beginners to writers with years of experience. Our mentoring packages are designed to work around your needs, so you can reach your writing goals."
     mentor__image = "images/mentor/writer.jpg"
@@ -212,7 +212,7 @@ paginate = 9
   # Blog Section
   [params.blog]
     enable = true
-    blog__title = "Recent News"
+    blog__title = "故事 ｜ Stories"
     blog__description = ""
 
 
