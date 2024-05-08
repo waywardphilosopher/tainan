@@ -1,0 +1,21 @@
+---
+title:  Turnip Cake
+description: Memories of grandmother's turnip cake
+preview: Memories of grandmother's turnip cake
+date: 2023-12-19
+author: WindBones
+image: images/news/daikon.jpeg
+tags: [Eng,中文]
+categories: [Story]
+
+---
+Turnip cake (in Taiwanese, 菜頭粿 tshài-thâu-ké) is a staple of Taiwanese breakfast shops. It's one of those comfort foods that is comforting because of its very simplicity. Taiwanese friends have told us that when they are elsewhere in the world, the thought of tshài-thâu-ké makes them go weak at the knees with nostalgia.
+
+But if breakfast shop turnip cake is good, home-cooked turnip cake is so much better. So here's a little story in Chinese from our afternoon tea workshop, about grandma's home-cooked tshài-thâu-ké.
+
+
+<img src="images/grandma2.jpeg" caption="A story about tshài-thâu-ké" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >
+
+And for those who want to read more in English, there's a nice article on Folklife about tshài-thâu-ké and grandmothers. [Read the article here](https://folklife.si.edu/magazine/foodways-holidays-taiwanese-turnip-cake).
+
+*Image: public domain via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Daikon_radish_with_plant_growing_in_the_background_LCCN2009630031.jpg)*

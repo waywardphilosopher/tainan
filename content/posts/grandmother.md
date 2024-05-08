@@ -2,9 +2,10 @@
 title:  Grandmother's dishes
 description: Remembering my grandmother
 preview: Remembering my grandmother
-date: 023-12-19
+date: 2023-12-19
 author: WindBones
 image: images/news/grandma.jpeg
+slug: grandmothers-dishes
 tags: [Eng]
 categories: [Story]
 
@@ -18,6 +19,6 @@ Even though my grandmother passed away quite some time ago, every time I taste t
 
 *— Ingrid*
 
---- 
+---
 
 Image: public domain via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slaaende_Lighed.jpg)

@@ -2,7 +2,7 @@
 title:  Grandpa's Stewed Pork Rice
 description: My grandpa once cooked for us, now we cook for him
 preview: My grandpa once cooked for us, now we cook for him
-date: 2023-12-19T07
+date: 2023-12-19
 author: WindBones
 image: images/news/pork.jpeg
 tags: [Eng]
