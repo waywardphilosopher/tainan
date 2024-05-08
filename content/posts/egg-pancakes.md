@@ -1,13 +1,14 @@
 ---
-title:  Egg Pancakes
+title: Egg Pancakes
 description: This project is fuelled by egg pancakes
 preview: This project is fuelled by egg pancakes
-date:   2023-12-07
+date: 2023-12-07
 author: Will
 image: images/news/tea3.jpg
-tags: [Eng]
-categories: [Story]
-
+tags:
+  - English
+categories:
+  - Story
 ---
 What could be better, first thing in the morning, than an egg pancake (蛋餅) from one of your favourite local breakfast shops? One of the perpetual dilemmas of living in Tainan is *where to eat breakfast*. It is a good dilemma to have. Here in the South District, we have an abundance of options: congee (粥), bao buns (包子), pot-stickers (國鐵), soft wraps (潤餅), egg pancakes (蛋餅)... Or else, if we remember in time, we put a loaf of sourdough on to rise overnight, and when we get up, we stick it in our new box oven so that by breakfast time, the house is filled with the smell of baking bread.
 

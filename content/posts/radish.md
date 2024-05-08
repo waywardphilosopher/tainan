@@ -1,12 +1,15 @@
 ---
-title:  蘿蔔 ｜ Radish
+title: 蘿蔔 ｜ Radish
 description: In praise of the radish
 preview: In praise of the radish
-date:   2023-12-22
+date: 2023-12-22
 author: WindBones
 image: images/news/luobo.jpg
-tags: [Eng,中文]
-categories: [Story]
+tags:
+  - English
+  - 中文
+categories:
+  - Story
 slug: radish
 ---
 

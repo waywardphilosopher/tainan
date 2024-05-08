@@ -1,14 +1,15 @@
 ---
-title:  Tomatoes
+title: Tomatoes
 description: Memories of childhood, and tomato-fried egg
 preview: Memories of childhood, and tomato-fried egg
-date:   2023-12-22
+date: 2023-12-22
 author: WindBones
 image: images/news/tomatoes.jpeg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 slug: tomato-fried-egg
-
 ---
 
 The tomato is a strange thing, because some call it a vegetable and some think it is a fruit. But to me, whether fruit or vegetable, above all else it is a memory of my childhood.

@@ -1,12 +1,15 @@
 ---
-title:  我媽媽的越南菜 | My Mother's Vietnamese Food
+title: 我媽媽的越南菜 | My Mother's Vietnamese Food
 description: 想起媽媽做的菜
 preview: 想起媽媽做的菜
-date:   2023-12-19T05:51:15.952Z
+date: 2023-12-19T05:51:15.952Z
 author: WindBones
 image: images/news/pho_bo.jpg
-tags: [Eng,中文]
-categories: [Story]
+tags:
+  - English
+  - 中文
+categories:
+  - Story
 slug: vietnamese-food
 ---
 

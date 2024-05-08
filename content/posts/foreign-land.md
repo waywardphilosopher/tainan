@@ -1,13 +1,15 @@
 ---
-title: In a Foreign Land 
+title: In a Foreign Land
 description: Away from home, learning how to cook
 preview: Away from home, learning how to cook
-date:   2023-12-22
+date: 2023-12-22
 author: WindBones
 image: images/news/japan-food.jpg
 slug: foreign-land
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 ---
 
 After arriving in Tokyo a year ago, my cooking skills have noticeably improved. Since being here I've grown accustomed to the high prices of fruits and gradually accepted the limited variety of vegetables. These new restraints have meant I’ve grown in creativity in the kitchen.

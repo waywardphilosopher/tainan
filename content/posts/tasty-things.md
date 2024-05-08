@@ -1,13 +1,14 @@
 ---
-title:  Tasty Things
+title: Tasty Things
 description: Tsin hó-tsiah ê mi̍h-kiānn!
 preview: Tsin hó-tsiah ê mi̍h-kiānn!
-date:  2023-12-15 
+date: 2023-12-15
 author: Will
 image: images/news/fish.jpg
-tags: [Eng]
-categories: [Story]
-
+tags:
+  - English
+categories:
+  - Story
 ---
 At dinner, we eat fish, and pork with strips of salted ginger, and water spinach. It is the first day of our residency, and we are celebrating with a beer. 
 

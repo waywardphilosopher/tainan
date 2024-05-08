@@ -1,12 +1,14 @@
 ---
-title:  A Complicated Relationship
+title: A Complicated Relationship
 description: A childhood accident
 preview: A childhood accident
-date:   2023-12-19
+date: 2023-12-19
 author: WindBones
 image: images/news/chai.jpeg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 ---
 
 I have a complicated relationship with chai. Kenyan chai, not the Indian version. The milk is warmed first, before the water, the tea-dust — fragrant Kenyan tea from the Rift Valley highlands —, and the sugar are all added. It is all done by eye. I have never met a family who follows a recipe.

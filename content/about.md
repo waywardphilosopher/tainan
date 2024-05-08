@@ -13,8 +13,6 @@ email: "contact@windandbones.com"
 
 在這個網站上，您可以查看我們駐地期間的最新消息。同時，您還可以閱讀其他人與我們分享的故事。如果您有自己的故事想要分享，請隨時透過[聯絡表單](/contact) 告訴我們。
 
-或者，您也可以親自來南寧文學·家，與我們一同[品味下午茶](/afternoon-tea)！
-
 ---
 
 ## Nourishing Tainan with Wind&Bones: Food · Stories · Philosophy

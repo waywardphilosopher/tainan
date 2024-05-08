@@ -1,12 +1,14 @@
 ---
-title:  Culinary Heaven
+title: Culinary Heaven
 description: Tainan is a paradise for foodies
 preview: Tainan is a paradise for foodies
-date:   2023-12-15T05:55:13.457Z
+date: 2023-12-15T05:55:13.457Z
 author: WindBones
 image: images/news/tainan.jpg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 ---
 
 Tainan is a culinary heaven. It flourishes with lively, historic flavours. Every dish echoes the city's rich heritage. Food in Tainan is a vibrant fusion of tradition and innovation on the taste buds.

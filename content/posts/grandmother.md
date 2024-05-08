@@ -1,14 +1,15 @@
 ---
-title:  Grandmother's dishes
+title: Grandmother's dishes
 description: Remembering my grandmother
 preview: Remembering my grandmother
 date: 2023-12-19
 author: WindBones
 image: images/news/grandma.jpeg
 slug: grandmothers-dishes
-tags: [Eng]
-categories: [Story]
-
+tags:
+  - English
+categories:
+  - Story
 ---
 
 I remember my grandmother as both affectionate and strict. She had a tough exterior but a soft heart, and she expressed her love in every action. She never said the words, "I love you," but everything she did was an embodiment of love.

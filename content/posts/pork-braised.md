@@ -1,14 +1,15 @@
 ---
-title:  Pork Braised Rice
+title: Pork Braised Rice
 description: Thinking of home
 preview: Thinking of home
-date: 2023-12-28  
+date: 2023-12-28
 author: WindBones
 image: images/news//pork-braised.jpeg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 slug: pork-braised
-
 ---
 When it comes to eating something special, I think of nothing but pork braised rice. Why? Because my mum is really good at cooking it.
 

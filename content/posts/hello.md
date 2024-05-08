@@ -1,13 +1,14 @@
 ---
-title:  Welcome to Nourishing Tainan!
+title: Welcome to Nourishing Tainan!
 description: A residency at the Nanning Literature House, Tainan with Wind&Bones
 preview: A residency at the Nanning Literature House, Tainan with Wind&Bones
-date:  2023-12-07 
+date: 2023-12-07
 author: WindBones
 image: images/news/fruit.jpg
-tags: [Eng]
-categories: [Story]
-
+tags:
+  - English
+categories:
+  - Blog
 ---
 
 Hello， 大家好 and ta̍k-ke hó!

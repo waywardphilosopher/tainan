@@ -1,14 +1,15 @@
 ---
-title:  A Banquet of Stories
+title: A Banquet of Stories
 description: Sharing stories and experiences
 preview: Sharing stories and experiences
-date:   2024-01-04
+date: 2024-01-04
 author: WindBones
 image: images/news/banquet.jpg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Blog
 slug: banquet-stories
-
 ---
 Two days before Christmas, we wrapped up our project with a final lecture generously hosted by the StableNice Café here in Tainan. We drank tea, ate cake, talked about our work at Wind&Bones, shared some of the stories from the project, and talked about what we had learned over the ten days of our residency.
 

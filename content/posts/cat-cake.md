@@ -1,12 +1,14 @@
 ---
-title:  Cat Cake
+title: Cat Cake
 description: A baker's cat in shades
 preview: A baker's cat in shades
-date:   2023-12-15T05:55:13.457Z
+date: 2023-12-15T05:55:13.457Z
 author: Hannah
 image: images/news/cat-tea.jpeg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 ---
 
 We were walking home late one evening when I saw it. It was a white sign with black writing that read 'Cake' in English. 

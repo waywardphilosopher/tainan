@@ -1,13 +1,14 @@
 ---
-title:  Pasta al Carbonara
+title: Pasta al Carbonara
 description: A lifelong passion
 preview: A lifelong passion
-date:   2023-12-18
+date: 2023-12-18
 author: WindBones
 image: images/news/pasta.jpeg
-tags: [Eng]
-categories: [Story]
-
+tags:
+  - English
+categories:
+  - Story
 ---
 My memories of carbonara are so rich and deep. It will always be my go-to food, until the day I die.
 

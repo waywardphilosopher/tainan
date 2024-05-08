@@ -1,12 +1,14 @@
 ---
-title:  Down the Generations
+title: Down the Generations
 description: Passing knowledge of cooking from father to son
 preview: Passing knowledge of cooking from father to son
-date:   2023-12-22T01:15:20.675Z
+date: 2023-12-22T01:15:20.675Z
 author: WindBones
 image: images/news/paocai.jpeg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 ---
 
 It was my father who taught me to cook. In my family he prepared meals for all of us — breakfast, lunch and dinner. This is very different from a traditional Asian family. 

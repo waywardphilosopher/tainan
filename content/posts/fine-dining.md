@@ -1,13 +1,14 @@
 ---
-title:  Moving In
+title: Moving In
 description: Fine Dining - The Residency Begins
 preview: Fine Dining - The Residency Begins
-date:   2023-12-13
+date: 2023-12-13
 author: WindBones
 image: images/news/residency.jpg
-tags: [Eng]
-categories: [Blog]
-
+tags:
+  - English
+categories:
+  - Blog
 ---
 This morning, we packed our bags and moved across town to Nanning Street, where we are going to be spending the next ten days in the literature house.
 

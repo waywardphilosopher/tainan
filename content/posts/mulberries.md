@@ -1,13 +1,14 @@
 ---
-title:  Sweet and Sour Mulberries
+title: Sweet and Sour Mulberries
 description: Childhood memories of picking mulberries
 preview: Childhood memories of picking mulberries
-date:   2023-12-17
+date: 2023-12-17
 author: WindBones
 image: images/news/mulberry.jpeg
-tags: [Eng]
-categories: [Story]
-
+tags:
+  - English
+categories:
+  - Story
 ---
 
 No matter where I am, no matter how old I am, whenever I see mulberries I think of home.

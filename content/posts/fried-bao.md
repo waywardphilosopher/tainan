@@ -2,11 +2,14 @@
 title: Fried Bao
 description: Getting up early for breakfast
 preview: Getting up early for breakfast
-date:   2023-12-15
+date: 2023-12-15
 author: Will
 image: images/news/bao.jpg
-tags: [Eng,中文]
-categories: [Story]
+tags:
+  - English
+  - 中文
+categories:
+  - Story
 slug: fried-bao
 ---
 

@@ -1,13 +1,14 @@
 ---
-title:  Website Updates
+title: Website Updates
 description: We've been refurbished!
 preview: We've been refurbished!
-date:   2024-05-08
+date: 2024-05-08
 author: Will
 image: images/news/exchange.jpg
-tags: [Eng]
-categories: [Blog]
-
+tags:
+  - English
+categories:
+  - Blog
 ---
 When we started this website, it was just a small project for our residency at the Nanning Literature House in December 2023. But since then, there has been a lot of interest from people wanting to share their stories. So we thought it was time we gave the website a bit of a new look.
 

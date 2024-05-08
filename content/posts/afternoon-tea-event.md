@@ -1,13 +1,14 @@
 ---
-title:  Afternoon Tea
+title: Afternoon Tea
 description: An informal writing workshop
 preview: An informal writing workshop
 date: 2023-12-18
 author: WindBones
 image: images/news/tea0.jpg
-tags: [Eng]
-categories: [Story]
-
+tags:
+  - English
+categories:
+  - Blog
 ---
 
 Yesterday we held our [afternoon tea](/afternoon-tea) event here at the Nanning Literary House. We designed this as an informal writing workshop, inviting friends and strangers into the literary house to eat home-made scones (we were busy all Sunday morning in the kitchen!), and to share stories about food. 

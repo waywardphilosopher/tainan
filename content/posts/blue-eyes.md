@@ -1,12 +1,14 @@
 ---
-title:  Blue Eyes
+title: Blue Eyes
 description: An encounter in a restaurant
 preview: An encounter in a restaurant
-date:   2023-12-16
+date: 2023-12-16
 author: Hannah
 image: images/news/blueeyes.jpeg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 ---
 
 When the waitress began to speak, I looked closely at her face, and I noticed that she had the most unusual eyes.

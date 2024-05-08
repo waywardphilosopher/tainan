@@ -1,14 +1,15 @@
 ---
-title:  Taiwanese Kimchi
+title: Taiwanese Kimchi
 description: Kimchi - a treasured possession
 preview: Kimchi - a treasured possession
-date:  2023-12-22 
+date: 2023-12-22
 author: WindBones
 image: images/news/kimchi.jpg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+categories:
+  - Story
 slug: taiwanese-kimchi
-
 ---
 
 My grandmother once told me that in her childhood she thought that Taiwanese kimchi was the most delicious food. When I was a child, she told me a bedside story about her early life. She told me how, in the early days of Taiwan, families with farming backgrounds faced financial struggles. They relied on thin porridge with a few small, pickled dried fish, or soy sauce. They rarely had the opportunity to enjoy dishes with meat or vegetables. 

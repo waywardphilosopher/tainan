@@ -1,15 +1,16 @@
 ---
-title:  一股連我也不知道是什麼的滋味 | A flavour even I don't know
+title: 一股連我也不知道是什麼的滋味 | A flavour even I don't know
 description: A bitter treat
 preview: A bitter treat
-date:   2023-12-27
+date: 2023-12-27
 author: WindBones
 image: images/news/tea-mesona.jpeg
-tags: [Eng]
-categories: [Story]
+tags:
+  - English
+  - 中文
+categories:
+  - Story
 slug: strange-flavour
-
-
 ---
 
 ## 一股連我也不知道是什麼的滋味，從裡向外展開
