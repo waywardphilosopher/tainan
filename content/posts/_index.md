@@ -1,4 +1,4 @@
 ---
-title: News
-description: Latest news and updates from Wind&Bones
+title: 故事 | Stories
+description: 滋養台南 ｜ Nourishing Tainan
 ---

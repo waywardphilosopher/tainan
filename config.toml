@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "https://www.windandbones.com/"
 languageCode = "en-GB"
-title = "Wind&Bones"
+title = "滋養台南 | Nourishing Tainan"
 paginate = 9
 
 [params]
@@ -19,34 +19,23 @@ paginate = 9
 [menu]
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
-
-  [[menu.main]]
     identifier = "blog"
-    name = "News"
+    name = "故事 ｜ stories"
     url = "/posts/"
     weight = 3
 
 [[menu.main]]
-      name = "About"
+      name = "關於我們 ｜ About"
       url = "/about/"
       weight = 4
 
 [[menu.main]]
-      name = "Mentor"
-      url = "/mentor/"
-      weight = 5
-
-[[menu.main]]
-      name = "Search"
+      name = "搜尋 ｜ Search"
       url = "/search/"
       weight = 6
 
 [[menu.main]]
-      name = "Contact"
+      name = "聯絡我們 | Contact Us"
       url = "/contact/"
       weight = 7
 
@@ -58,26 +47,20 @@ paginate = 9
       weight = 1
 
       [[menu.footer]]
-      identifier = "projects"
-      name = "Projects"
-      url = "/projects/"
-      weight = 2
-
-      [[menu.footer]]
       identifier = "blog"
-      name = "News"
+      name = "故事｜stories"
       url = "/posts/"
       weight = 3
 
       [[menu.footer]]
       identifier = "about"
-      name = "About"
+      name = "關於我們｜About"
       url = "/about/"
       weight = 4
 
       [[menu.footer]]
       identifier = "search"
-      name = "Search"
+      name = "搜尋｜Search"
       url = "/search/"
       weight = 4
 
@@ -87,19 +70,6 @@ paginate = 9
       name = "Privacy"
       url = "/privacy/"
       weight = 5
-
-      [[menu.footer]]
-      identifier = "equality"
-      name = "Equality, Diversity & Inclusion"
-      url = "/equalities/"
-      weight = 7
-
-      [[menu.footer]]
-      identifier = "safeguarding"
-      name = "Safeguarding"
-      url = "/safeguarding/"
-      weight = 8
-
 
       [[menu.footer]]
       identifier = "contact"
@@ -143,8 +113,8 @@ paginate = 9
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "Wind&Bones"
-    hero__description = "We run projects that use writing and storytelling as catalysts for positive social change. Registered as a social enterprise in Dundee, Scotland, we work across the globe. Run by writers Dr Hannah Stevens & Dr Will Buckingham, we currently divide our time between Dundee and Tainan, Taiwan."
+    hero__title = "滋養台南 | Nourishing Tainan"
+    hero__description = "食物滋養我們的身體。故事滋養我們的靈魂。哲學滋養我們的心靈  |  Food Nourishes Our Bodies. Stories nourish our spirit. Philosophy nourishes our mind."
     hero__image = "/images/about/frontpage.jpg"
 
 
@@ -172,7 +142,7 @@ paginate = 9
   #-------------------------------
   # Projects Settings
   [params.projects]
-    enable = true
+    enable = false
     projects__title= "Our Projects"
     projects__description= "We work around the globe on projects exploring the meeting-places between writing, creativity and social change."
 
@@ -180,7 +150,7 @@ paginate = 9
   #-------------------------------
   # Testimonials Section
   [params.testimonials]
-    enable = true
+    enable = false
     testimonial__title = "What people are saying"
     testimonial__description = ""
 

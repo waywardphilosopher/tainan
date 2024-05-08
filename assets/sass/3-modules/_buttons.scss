@@ -11,20 +11,19 @@
   outline: none;
   cursor: pointer;
   transition: all .2s;
-  color: var(--white);
+  color: var(--dark);
   background: var(--brand-color);
 
   &:hover {
-    color: var(--white);
+    color: var(--dark);
   }
 
   &--primary {
-    color: var(--white);
+    color: var(--dark);
     background-color: var(--button-background-color);
 
     &:hover {
       background: var(--button-background-hover);
-      color: var(--white) !important
     }
   }
 
