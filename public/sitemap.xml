@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/eng/</loc>
+    <loc>//localhost:1313/tags/english/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
@@ -35,6 +35,9 @@
     <loc>//localhost:1313/posts/strange-flavour/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/down-the-generations/</loc>
     <lastmod>2023-12-22T01:15:20+00:00</lastmod>
   </url><url>
@@ -48,9 +51,6 @@
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/surprise/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/radish/</loc>

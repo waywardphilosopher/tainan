@@ -16,7 +16,7 @@ Turnip cake (in Taiwanese, 菜頭粿 tshài-thâu-ké) is a staple of Taiwanese 
 But if breakfast shop turnip cake is good, home-cooked turnip cake is so much better. So here's a little story in Chinese from our afternoon tea workshop, about grandma's home-cooked tshài-thâu-ké.
 
 
-<img src="images/grandma2.jpeg" caption="A story about tshài-thâu-ké" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >
+![Grandma's turnip cake](/images/news/grandma2.jpeg)
 
 And for those who want to read more in English, there's a nice article on Folklife about tshài-thâu-ké and grandmothers. [Read the article here](https://folklife.si.edu/magazine/foodways-holidays-taiwanese-turnip-cake).
 
