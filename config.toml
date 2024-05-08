@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://www.windandbones.com/"
+baseURL = "/"
 languageCode = "en-GB"
 title = "滋養台南 | Nourishing Tainan"
 paginate = 9
