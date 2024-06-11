@@ -4,7 +4,7 @@ description: While my clan was still intact...
 preview: While my clan was still intact...
 date: 2024-06-11
 author: WindBones
-image: images/news/zongzi.jpg
+image: images/news/jiaozi.jpg
 tags:
   - English
 categories:
