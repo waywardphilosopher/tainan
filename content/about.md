@@ -8,7 +8,7 @@ email: "contact@windandbones.com"
 #### 食物滋養我們的身體。故事滋養我們的靈魂。哲學滋養我們的心靈。
 
 
-在2023年12月，我們很榮幸成為台南南寧文學館的駐館作家。
+在2023年12月，我們很榮幸成為台南南寧文學·家的駐館作家。
 
 我們對於探索社區、食物、文化、故事和哲學之間的聯繫深感興趣。在駐館期間，我們深入研究了台南豐富的故事和文化。我們稱這個項目為「滋養台南」。
 
@@ -39,5 +39,4 @@ This website contains some of the many stories we have collated for this project
 People make Tainan. People make Taiwan.
 
 Why not join us and [contribute a story of your own to the project](/contact)?
-
 
